@@ -1,0 +1,101 @@
+
+
+$ spark-submit --packages com.crealytics:spark-excel_2.12:3.2.1_0.17.1 src/01_analysis.py
+
+...
+
+
+Reading target data file inputs/Target_Data.xlsx into dataframe tdf
+
+Show schema of dataframe tdf
+root
+ |-- carType: string (nullable = true)
+ |-- color: string (nullable = true)
+ |-- condition: string (nullable = true)
+ |-- currency: string (nullable = true)
+ |-- drive: string (nullable = true)
+ |-- city: string (nullable = true)
+ |-- country: string (nullable = true)
+ |-- make: string (nullable = true)
+ |-- manufacture_year: string (nullable = true)
+ |-- mileage: string (nullable = true)
+ |-- mileage_unit: string (nullable = true)
+ |-- model: string (nullable = true)
+ |-- model_variant: string (nullable = true)
+ |-- price_on_request: string (nullable = true)
+ |-- type: string (nullable = true)
+ |-- zip: string (nullable = true)
+ |-- manufacture_month: string (nullable = true)
+ |-- fuel_consumption_unit: string (nullable = true)
+
+Show valid mileage_unit
++------------+
+|mileage_unit|
++------------+
+|        mile|
+|   kilometer|
++------------+
+
+Reading supplier cat data file inputs/supplier_car.json into dataframe sdf
+Show schema of dataframe sdf
+root
+ |-- Attribute Names: string (nullable = true)
+ |-- Attribute Values: string (nullable = true)
+ |-- ID: string (nullable = true)
+ |-- MakeText: string (nullable = true)
+ |-- ModelText: string (nullable = true)
+ |-- ModelTypeText: string (nullable = true)
+ |-- TypeName: string (nullable = true)
+ |-- TypeNameFull: string (nullable = true)
+ |-- entity_id: string (nullable = true)
+
+Check granularity of records in sdf
++---+--------------------+----------------+
+| ID|     Attribute Names|Attribute Values|
++---+--------------------+----------------+
+|1.0|                  Km|           31900|
+|1.0|TransmissionTypeText|         Automat|
+|1.0|   ConditionTypeText|        Occasion|
+|1.0|       DriveTypeText|          Allrad|
+|1.0|                City|          Zuzwil|
+|1.0|               Doors|               4|
+|1.0|        BodyTypeText|       Limousine|
+|1.0|   InteriorColorText|            grau|
+|1.0|        FirstRegYear|            1999|
+|1.0|          Properties|        "Ab MFK"|
+|1.0|       BodyColorText|       anthrazit|
+|1.0|       FirstRegMonth|               1|
+|1.0|                  Hp|             224|
+|1.0|ConsumptionTotalText|    11.5 l/100km|
+|1.0|        FuelTypeText|          Benzin|
+|1.0|               Seats|               5|
+|1.0|                 Ccm|            3199|
+|1.0|ConsumptionRating...|            null|
+|1.0|     Co2EmissionText|        275 g/km|
++---+--------------------+----------------+
+
+Show Attribute Names in sdf
++---------------------+
+|Attribute Names      |
++---------------------+
+|ConsumptionRatingText|
+|FirstRegYear         |
+|Doors                |
+|InteriorColorText    |
+|Co2EmissionText      |
+|FirstRegMonth        |
+|Seats                |
+|ConsumptionTotalText |
+|Ccm                  |
+|ConditionTypeText    |
+|Properties           |
+|BodyColorText        |
+|DriveTypeText        |
+|TransmissionTypeText |
+|Km                   |
+|Hp                   |
+|BodyTypeText         |
+|FuelTypeText         |
+|City                 |
++---------------------+
+

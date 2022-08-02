@@ -1,0 +1,1154 @@
+carType,color,condition,currency,drive,city,country,make,manufacture_year,mileage,mileage_unit,model,model_variant,price_on_request,type,zip,manufacture_month,fuel_consumption_unit
+Saloon,Red,Occasion,null,null,Zuzwil,null,VW,null,84600,km,Phaeton 3.0 TDi V6 4M,VW Phaeton 3.0 TDi V6 4M,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,48700,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Other,Black,Occasion,null,null,Zuzwil,null,GIOTTILINE,null,200,km,Therry T22,GIOTTILINE Therry T22,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,21000,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,7400,km,E 63 AMG,MERCEDES-BENZ E 63 AMG,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,68000,km,Alpine A110 1600 S,RENAULT Alpine A110 1600 S,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,AUDI,null,94000,km,A6 2.8 Ambiente,AUDI A6 2.8 Ambiente,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,29500,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,53800,km,E 55 AMG Avantgarde,MERCEDES-BENZ E 55 AMG Avantgarde,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,37800,km,RS4 Avant quattro,AUDI RS4 Avant quattro,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,15600,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Station Wagon,White,Occasion,null,null,Zuzwil,null,AUDI,null,31500,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,205500,km,S 55 AMG,MERCEDES-BENZ S 55 AMG,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,BMW,null,5400,km,650i xDrive,BMW 650i xDrive,null,car,null,null,null
+Coupé,Yellow,Occasion,null,null,Zuzwil,null,MASERATI,null,64600,km,3200 GT,MASERATI 3200 GT,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,29500,km,911 Carrera S Cabrio,PORSCHE 911 Carrera S Cabrio,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,ROLLS-ROYCE,null,47100,km,CORNICHE III,ROLLS-ROYCE CORNICHE III,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,BUGATTI,null,4000,km,EB 110 GT/SS,BUGATTI EB 110 GT/SS,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,LAND ROVER,null,54600,km,Range Rover 4.6 HSE,LAND ROVER Range Rover 4.6 HSE,null,car,null,null,null
+SUV,Black,Neu,null,null,Zuzwil,null,MERCEDES-BENZ,null,1,km,ML 500 4Matic,MERCEDES-BENZ ML 500 4Matic,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,40700,km,Alpine A110 1600 SC,RENAULT Alpine A110 1600 SC,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,9650,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,43000,km,S 250 CDI BlueEff SS,MERCEDES-BENZ S 250 CDI BlueEff SS,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,BENTLEY,null,58000,km,Continental GTC 6.0,BENTLEY Continental GTC 6.0,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,146500,km,3 SERIES B8,BMW-ALPINA 3 SERIES B8,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,98000,km,SL 500 6.0 AMG,MERCEDES-BENZ SL 500 6.0 AMG,null,car,null,null,null
+SUV,Blue,Occasion,null,null,Zuzwil,null,LAND ROVER,null,49900,km,Range Rover Sport 4.2 V8 SC,LAND ROVER Range Rover Sport 4.2 V8 SC,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,19000,km,M5,BMW M5,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,105300,km,SL 350,MERCEDES-BENZ SL 350,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,32900,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Station Wagon,Green,Occasion,null,null,Zuzwil,null,AUDI,null,45300,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,130000,km,S 65 AMG L,MERCEDES-BENZ S 65 AMG L,null,car,null,null,null
+Coupé,Silver,Vorführmodell,null,null,Zuzwil,null,FERRARI,null,26000,km,599 GTB,FERRARI 599 GTB,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,MASERATI,null,95300,km,Coupé GT,MASERATI Coupé GT,null,car,null,null,null
+Saloon,Black,Oldtimer,null,null,Zuzwil,null,MERCEDES-BENZ,null,110200,km,450 SLC,MERCEDES-BENZ 450 SLC,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,TOYOTA,null,78000,km,1000 / Publica,TOYOTA 1000 / Publica,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,57700,km,Alpine A110 1600S,RENAULT Alpine A110 1600S,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,LOTUS,null,36700,km,Esprit 3.5 V8 SE,LOTUS Esprit 3.5 V8 SE,null,car,null,null,null
+SUV,Blue,Occasion,null,null,Zuzwil,null,FORD (USA),null,50100,km,Explorer 4.0 Ltd. Edition,FORD (USA) Explorer 4.0 Ltd. Edition,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,45700,km,Diablo 5.7 SV,LAMBORGHINI Diablo 5.7 SV,null,car,null,null,null
+Coupé,Silver,Oldtimer,null,null,Zuzwil,null,TOYOTA,null,79300,km,CELICA 1600 GT DOHC,TOYOTA CELICA 1600 GT DOHC,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,91600,km,500 SE,MERCEDES-BENZ 500 SE,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,88500,km,S 600,MERCEDES-BENZ S 600,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,211000,km,S6 Avant quattro,AUDI S6 Avant quattro,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,5000,km,DBS Coupé,ASTON MARTIN DBS Coupé,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,86900,km,E 55 AMG Avantgarde,MERCEDES-BENZ E 55 AMG Avantgarde,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,20400,km,911 Carrera Cabrio,PORSCHE 911 Carrera Cabrio,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,63400,km,E 55 AMG Avantgarde,MERCEDES-BENZ E 55 AMG Avantgarde,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,25000,km,SLK 55 AMG Black Series,MERCEDES-BENZ SLK 55 AMG Black Series,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,JAGUAR,null,49200,km,E E-Type III,JAGUAR E E-Type III,null,car,null,null,null
+Other,Gold,Occasion,null,null,Zuzwil,null,RENAULT,null,59900,km,R5 Turbo 2,RENAULT R5 Turbo 2,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Sursee,null,FORD (USA),null,1000,km,Mustang,FORD (USA) Mustang,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,2000,km,ML 63 AMG 4Matic,MERCEDES-BENZ ML 63 AMG 4Matic,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,7890,km,Murciélago LP640-4 Cpé,LAMBORGHINI Murciélago LP640-4 Cpé,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,65000,km,740i,BMW 740i,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,19200,km,Alpine A110 1600S Gruppe 5 look,RENAULT Alpine A110 1600S Gruppe 5 look,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,45500,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,43200,km,SLK 320,MERCEDES-BENZ SLK 320,null,car,null,null,null
+Coupé,Red,Oldtimer,null,null,Zuzwil,null,MERCEDES-BENZ,null,1,km,170V B Cabrio 136,MERCEDES-BENZ 170V B Cabrio 136,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,117900,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,38900,km,Coupé GT,MASERATI Coupé GT,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,14100,km,S 320,MERCEDES-BENZ S 320,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,126300,km,ML 350 Inspiration,MERCEDES-BENZ ML 350 Inspiration,null,car,null,null,null
+Coupé,White,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,5900,km,Reventon Coupé,LAMBORGHINI Reventon Coupé,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,RENAULT,null,99,km,CLIO Rennwagen,RENAULT CLIO Rennwagen,null,car,null,null,null
+Coupé,Blue,Oldtimer,null,null,Zuzwil,null,MG,null,37000,km,Roadster,MG Roadster,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FORD,null,96600,km,ESCORT RS 2000,FORD ESCORT RS 2000,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,AUDI,null,55000,km,S8 4.2 quattro,AUDI S8 4.2 quattro,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,FIAT,null,28800,km,Stilo 1.8 16V Swiss,FIAT Stilo 1.8 16V Swiss,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,120900,km,CLS 500,MERCEDES-BENZ CLS 500,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,19900,km,A8 3.7,AUDI A8 3.7,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,26800,km,Panamera Turbo 4.8,PORSCHE Panamera Turbo 4.8,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,CHEVROLET,null,4000,km,Corvette ZR1,CHEVROLET Corvette ZR1,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,2400,km,SLR McLaren Roadster,MERCEDES-BENZ SLR McLaren Roadster,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,69000,km,Alpine A310 V6,RENAULT Alpine A310 V6,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,49300,km,S8 4.2 quattro,AUDI S8 4.2 quattro,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,97300,km,S 65 AMG L,MERCEDES-BENZ S 65 AMG L,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BMW,null,228000,km,323Ci,BMW 323Ci,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,CHEVROLET,null,33000,km,Corvette 6.2,CHEVROLET Corvette 6.2,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,SMART,null,165000,km,Fortwo passion,SMART Fortwo passion,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,VW,null,104500,km,Touareg 5.0 TDI V10,VW Touareg 5.0 TDI V10,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,128500,km,ALPINE V6,RENAULT ALPINE V6,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,BMW,null,63000,km,740i,BMW 740i,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,118300,km,CLS 55 AMG,MERCEDES-BENZ CLS 55 AMG,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,84000,km,Continental GT 6.0,BENTLEY Continental GT 6.0,null,car,null,null,null
+Coupé,Blue,Oldtimer,null,null,Zuzwil,null,RENAULT,null,77300,km,Alpine A310 V6,RENAULT Alpine A310 V6,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,101200,km,911 Carrera 4S,PORSCHE 911 Carrera 4S,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,57000,km,S8 4.2 quattro,AUDI S8 4.2 quattro,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,49800,km,Murciélago 6.2 Coupé,LAMBORGHINI Murciélago 6.2 Coupé,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BMW,null,26200,km,728i,BMW 728i,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,48100,km,S 600 L,MERCEDES-BENZ S 600 L,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,TOYOTA,null,158000,km,Celica 2800 i Supra,TOYOTA Celica 2800 i Supra,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,99900,km,S 500,MERCEDES-BENZ S 500,null,car,null,null,null
+Saloon,Yellow,Oldtimer,null,null,Safenwil,null,TOYOTA,null,58100,km,CAMRY 2000 GLi Super Liftback,TOYOTA CAMRY 2000 GLi Super Liftback,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,42200,km,612,FERRARI 612,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,21300,km,CLS 500,MERCEDES-BENZ CLS 500,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,VW,null,43900,km,Phaeton 6.0 W12 4Motion,VW Phaeton 6.0 W12 4Motion,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,47400,km,E 55 AMG Avantgarde,MERCEDES-BENZ E 55 AMG Avantgarde,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,LAND ROVER,null,50400,km,Defender 90 2.4Td4 SW,LAND ROVER Defender 90 2.4Td4 SW,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,CHRYSLER,null,20000,km,Viper RT/10,CHRYSLER Viper RT/10,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,29500,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,51800,km,RS4 Avant quattro,AUDI RS4 Avant quattro,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,43400,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,MASERATI,null,53000,km,Coupé GT,MASERATI Coupé GT,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,PORSCHE,null,34000,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Porrentruy,null,FERRARI,null,53500,km,F430 Spider,FERRARI F430 Spider,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,74400,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,28000,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,OPEL,null,153900,km,Frontera 3.2i V6 Limited,OPEL Frontera 3.2i V6 Limited,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,61000,km,S 65 L AMG 650PS,MERCEDES-BENZ S 65 L AMG 650PS,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,56500,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,38200,km,911 Carrera 4,PORSCHE 911 Carrera 4,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,BMW,null,91000,km,X5 4.4i,BMW X5 4.4i,null,car,null,null,null
+Pick-up,White,Occasion,null,null,Zuzwil,null,CHEVROLET,null,34500,km,Silverado 2500HD 6.6l V8,CHEVROLET Silverado 2500HD 6.6l V8,null,car,null,null,null
+SUV,Yellow,Occasion,null,null,Zuzwil,null,PORSCHE,null,91600,km,Cayenne Turbo S,PORSCHE Cayenne Turbo S,null,car,null,null,null
+Station Wagon,Black,Vorführmodell,null,null,Zuzwil,null,AUDI,null,2300,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,PORSCHE,null,73500,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,48500,km,E 430 Avantgarde,MERCEDES-BENZ E 430 Avantgarde,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FIAT,null,115100,km,SPIDER CSA,FIAT SPIDER CSA,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,81000,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,32500,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,32800,km,F355 Berlinetta,FERRARI F355 Berlinetta,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,23100,km,575M,FERRARI 575M,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,88100,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,106000,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Orange,Occasion,null,null,Zuzwil,null,PORSCHE,null,5000,km,911 GT3 CUP Rennwagen,PORSCHE 911 GT3 CUP Rennwagen,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,36900,km,ALPINE 2700VA,RENAULT ALPINE 2700VA,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,132600,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,RENAULT,null,108000,km,Alpine A310 V6,RENAULT Alpine A310 V6,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BMW,null,157400,km,323 i E21,BMW 323 i E21,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,DATSUN,null,23300,km,SPORTS 2000,DATSUN SPORTS 2000,null,car,null,null,null
+SUV,Silver,Neu,null,null,Zuzwil,null,PORSCHE,null,1,km,Cayenne S,PORSCHE Cayenne S,null,car,null,null,null
+SUV,Silver,Neu,null,null,Zuzwil,null,PORSCHE,null,400,km,Cayenne Turbo S,PORSCHE Cayenne Turbo S,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,PORSCHE,null,16000,km,911 Turbo S Cabrio SPEED ART 580PS,PORSCHE 911 Turbo S Cabrio SPEED ART 580PS,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,PEUGEOT,null,72600,km,406 Coupé 3.0 V6 Pack,PEUGEOT 406 Coupé 3.0 V6 Pack,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,RENAULT,null,39267,km,Alpine A110 A5 Motor,RENAULT Alpine A110 A5 Motor,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,29000,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,CHEVROLET,null,24000,km,Corvette Z06,CHEVROLET Corvette Z06,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,111500,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,83600,km,SL 320,MERCEDES-BENZ SL 320,null,car,null,null,null
+Other,Purple,Occasion,null,null,Zuzwil,null,RENAULT,null,77900,km,R5 1400 Alpine Turbo,RENAULT R5 1400 Alpine Turbo,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,PEUGEOT,null,58950,km,205 Turbo 16V,PEUGEOT 205 Turbo 16V,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,125400,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+SUV,White,Neu,null,null,Zuzwil,null,PORSCHE,null,10,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,12900,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Convertible,Beige,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,34000,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Other,White,Occasion,null,null,Zuzwil,null,AUTOBIANCHI,null,9999,km,A112 Abarth Serie II,AUTOBIANCHI A112 Abarth Serie II,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,ROLLS-ROYCE,null,56000,km,Phantom 6.7 V12,ROLLS-ROYCE Phantom 6.7 V12,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,VW,null,15900,km,Phaeton 6.0 W12 4Motion,VW Phaeton 6.0 W12 4Motion,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,64100,km,C 43 AMG Sport,MERCEDES-BENZ C 43 AMG Sport,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,10600,km,Quattroporte 4.2,MASERATI Quattroporte 4.2,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,FERRARI,null,92000,km,456M GTA,FERRARI 456M GTA,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,FERRARI,null,78000,km,F355 Berlinetta,FERRARI F355 Berlinetta,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,12000,km,Carrera GT,PORSCHE Carrera GT,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,BMW,null,22800,km,Z4 2.5i Roadster,BMW Z4 2.5i Roadster,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,LAND ROVER,null,70400,km,Range Rover 4.6 HSE,LAND ROVER Range Rover 4.6 HSE,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,23200,km,Coupé GT,MASERATI Coupé GT,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,AUDI,null,61300,km,R8 Coupé 4.2,AUDI R8 Coupé 4.2,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,108500,km,911 Carrera,PORSCHE 911 Carrera,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,47600,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,55300,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,20800,km,Murciélago LP670-4 SV Cpé,LAMBORGHINI Murciélago LP670-4 SV Cpé,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,19100,km,B5 BiTurbo 4.4 V8,BMW-ALPINA B5 BiTurbo 4.4 V8,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,LEXUS,null,34000,km,GS 450h,LEXUS GS 450h,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,33000,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BENTLEY,null,57000,km,Arnage T,BENTLEY Arnage T,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,NISSAN,null,2300,km,Skyline R34 GTR,NISSAN Skyline R34 GTR,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,39800,km,S 65 AMG L,MERCEDES-BENZ S 65 AMG L,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,148600,km,944 S2 Cabriolet ABS,PORSCHE 944 S2 Cabriolet ABS,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,4950,km,B5 BiTurbo 4.4 V8,BMW-ALPINA B5 BiTurbo 4.4 V8,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,FERRARI,null,34000,km,348 tb,FERRARI 348 tb,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,96600,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,35500,km,V8 Vantage 4.3,ASTON MARTIN V8 Vantage 4.3,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,126000,km,E 230 Elégance,MERCEDES-BENZ E 230 Elégance,null,car,null,null,null
+Saloon,Beige,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,46000,km,S 65 L / BRABUS T65 S,MERCEDES-BENZ S 65 L / BRABUS T65 S,null,car,null,null,null
+Other,Red,Occasion,null,null,Zuzwil,null,DODGE,null,13800,km,B 200,DODGE B 200,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,VW,null,117800,km,Touareg 5.0 TDI V10,VW Touareg 5.0 TDI V10,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,93000,km,540i,BMW 540i,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,46000,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Coupé,Yellow,Occasion,null,null,Zuzwil,null,TOYOTA,null,135800,km,MR2 2.0,TOYOTA MR2 2.0,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,63600,km,SL 300,MERCEDES-BENZ SL 300,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Sursee,null,LAMBORGHINI,null,150,km,Aventador LP700-4 Rds,LAMBORGHINI Aventador LP700-4 Rds,null,car,null,null,null
+Station Wagon,Green,Occasion,null,null,Zuzwil,null,AUDI,null,42500,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,70600,km,SL 320,MERCEDES-BENZ SL 320,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,LAND ROVER,null,126300,km,Range Rover Sport 4.2 V8 SC,LAND ROVER Range Rover Sport 4.2 V8 SC,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,86300,km,328i,BMW 328i,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,111990,km,Alpine A310 V6,RENAULT Alpine A310 V6,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,60000,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,16000,km,ML 430,MERCEDES-BENZ ML 430,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,162000,km,190 E 2.5-16 ABS,MERCEDES-BENZ 190 E 2.5-16 ABS,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,RENAULT,null,82400,km,ALPINE V6,RENAULT ALPINE V6,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,79700,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,8000,km,SPORT SPIDER Windschutzscheibe,RENAULT SPORT SPIDER Windschutzscheibe,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,2100,km,Huracan LP610-4 Coupé,LAMBORGHINI Huracan LP610-4 Coupé,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,CHEVROLET,null,67000,km,CORVETTE C1,CHEVROLET CORVETTE C1,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,32800,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,156000,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,9999,km,Alpine A110 1300S,RENAULT Alpine A110 1300S,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,16500,km,Mondial 3.4 T,FERRARI Mondial 3.4 T,null,car,null,null,null
+SUV,Blue,Occasion,null,null,Zuzwil,null,BMW,null,86200,km,X3 3.0i,BMW X3 3.0i,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Porrentruy,null,FERRARI,null,42500,km,F360 Modena Berlinetta,FERRARI F360 Modena Berlinetta,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,94400,km,B10 4.6 S.Tronic,BMW-ALPINA B10 4.6 S.Tronic,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,BENTLEY,null,43000,km,Continental FlyingSpur6.0,BENTLEY Continental FlyingSpur6.0,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,36600,km,Cayenne Turbo S,PORSCHE Cayenne Turbo S,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,TOYOTA,null,53100,km,CELICA 1600 GT,TOYOTA CELICA 1600 GT,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,102000,km,S 65 AMG L,MERCEDES-BENZ S 65 AMG L,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,144200,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Pick-up,Black,Occasion,null,null,Zuzwil,null,TOYOTA,null,26900,km,DYNA Bergungsfahrzeug,TOYOTA DYNA Bergungsfahrzeug,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,47900,km,911 GT3,PORSCHE 911 GT3,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,VW,null,87000,km,Golf 2.0 TFSI GTI,VW Golf 2.0 TFSI GTI,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,137000,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,HYUNDAI,null,26900,km,Coupé 2.7 24V FX,HYUNDAI Coupé 2.7 24V FX,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,RUF,null,20900,km,CTR 2 Sport,RUF CTR 2 Sport,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,26700,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,134000,km,2002 Turbo,BMW 2002 Turbo,null,car,null,null,null
+Saloon,Yellow,Occasion,null,null,Zuzwil,null,MAZDA,null,158000,km,626 2.0i-16V HPV,MAZDA 626 2.0i-16V HPV,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,TRABANT,null,999,km,1300S Trabusa,TRABANT 1300S Trabusa,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,29900,km,535d,BMW 535d,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,27650,km,F360 Challenge stradale,FERRARI F360 Challenge stradale,null,car,null,null,null
+SUV,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,78400,km,Cayenne S,PORSCHE Cayenne S,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,29800,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,68000,km,456M GTA,FERRARI 456M GTA,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,BMW,null,128600,km,633 CSI A,BMW 633 CSI A,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,134100,km,911 Carrera 4,PORSCHE 911 Carrera 4,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,47300,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,65400,km,740i,BMW 740i,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,26400,km,SLR McLaren Coupé,MERCEDES-BENZ SLR McLaren Coupé,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,73700,km,S 320,MERCEDES-BENZ S 320,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,36900,km,Continental GT Speed 6.0,BENTLEY Continental GT Speed 6.0,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,68800,km,S 65 AMG L,MERCEDES-BENZ S 65 AMG L,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,BMW,null,79900,km,X5 4.4i,BMW X5 4.4i,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,NISSAN,null,15000,km,Skyline Rennwagen,NISSAN Skyline Rennwagen,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,30500,km,SLK 230 Kompressor,MERCEDES-BENZ SLK 230 Kompressor,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,MASERATI,null,41800,km,Coupé GT,MASERATI Coupé GT,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,59900,km,Cayenne S,PORSCHE Cayenne S,null,car,null,null,null
+Coupé,Blue,Neu,null,null,Zuzwil,null,FERRARI,null,200,km,458 Italia 4.5 V8 Speciale,FERRARI 458 Italia 4.5 V8 Speciale,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,99400,km,B3 3.2 Coupé S.Tronic,BMW-ALPINA B3 3.2 Coupé S.Tronic,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,RENAULT,null,60000,km,Alpine A110 1600 SX,RENAULT Alpine A110 1600 SX,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FORD (USA),null,92000,km,Mustang Shelby GT500,FORD (USA) Mustang Shelby GT500,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,51000,km,Boxster S 3.2,PORSCHE Boxster S 3.2,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,36800,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,14990,km,Diablo 5.7 VT,LAMBORGHINI Diablo 5.7 VT,null,car,null,null,null
+Convertible,Yellow,Occasion,null,null,Zuzwil,null,MORGAN,null,7100,km,4/4 1.8,MORGAN 4/4 1.8,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,CITROEN,null,83800,km,C5 3.0 V6 Exclusive,CITROEN C5 3.0 V6 Exclusive,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,62900,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,30600,km,911 Carrera 4S Cabrio,PORSCHE 911 Carrera 4S Cabrio,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MASERATI,null,88500,km,Spyder GT,MASERATI Spyder GT,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,51000,km,924,PORSCHE 924,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,15900,km,575M,FERRARI 575M,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,40800,km,DB9,ASTON MARTIN DB9,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,77700,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,AUDI,null,67700,km,S5 Coupé 4.2 FSI quattro,AUDI S5 Coupé 4.2 FSI quattro,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,46000,km,S 63 AMG L,MERCEDES-BENZ S 63 AMG L,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,23500,km,Spider 2.0 16V TURBO,RENAULT Spider 2.0 16V TURBO,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,56200,km,S 65 AMG L,MERCEDES-BENZ S 65 AMG L,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BENTLEY,null,19300,km,Arnage Red Label,BENTLEY Arnage Red Label,null,car,null,null,null
+Convertible,Yellow,Occasion,null,null,Zuzwil,null,PORSCHE,null,96000,km,911 Targa,PORSCHE 911 Targa,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,BMW,null,39700,km,M5,BMW M5,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,118800,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,24600,km,RS6 Avant 5.0 V10 quattro MTM,AUDI RS6 Avant 5.0 V10 quattro MTM,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,ALFA ROMEO,null,81900,km,Alfasud 1.5 ti,ALFA ROMEO Alfasud 1.5 ti,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,BMW,null,76500,km,535i Touring,BMW 535i Touring,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,FERRARI,null,39000,km,575M,FERRARI 575M,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,61400,km,911 Carrera Jubilé 40,PORSCHE 911 Carrera Jubilé 40,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,16660,km,CLK DTM AMG,MERCEDES-BENZ CLK DTM AMG,null,car,null,null,null
+Convertible,Silver,Neu,null,null,Zuzwil,null,MERCEDES-BENZ,null,160,km,SLK 200 Kompressor,MERCEDES-BENZ SLK 200 Kompressor,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,BMW,null,41900,km,X5 4.4i,BMW X5 4.4i,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,JAGUAR,null,107100,km,XKR S/C Convertible,JAGUAR XKR S/C Convertible,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,LOTUS,null,38200,km,Elise,LOTUS Elise,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,71600,km,Alpine A610 Turbo,RENAULT Alpine A610 Turbo,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,128800,km,S 500 L,MERCEDES-BENZ S 500 L,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,KAISER,null,18000,km,CJ-5 12V ARMEEFAHRZEUG,KAISER CJ-5 12V ARMEEFAHRZEUG,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,BMW,null,140000,km,323Ci,BMW 323Ci,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,112500,km,Turbo R,BENTLEY Turbo R,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Porrentruy,null,MERCEDES-BENZ,null,19900,km,S 500 L,MERCEDES-BENZ S 500 L,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,35500,km,Panamera 4S 4.8,PORSCHE Panamera 4S 4.8,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,22400,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,66800,km,B6 4.4 V8 Cabrio,BMW-ALPINA B6 4.4 V8 Cabrio,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,LANCIA,null,57000,km,Monte Carlo 137 AS,LANCIA Monte Carlo 137 AS,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,75200,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,26000,km,911 Carrera,PORSCHE 911 Carrera,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,20900,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,AUDI,null,26500,km,R8 Coupé 5.2,AUDI R8 Coupé 5.2,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,50000,km,RS4 Avant quattro,AUDI RS4 Avant quattro,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,FERRARI,null,46500,km,456M GT,FERRARI 456M GT,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,FERRARI,null,51200,km,575M,FERRARI 575M,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,24600,km,Vanquish V12,ASTON MARTIN Vanquish V12,null,car,null,null,null
+Coupé,Black,Neu,null,null,Zuzwil,null,PORSCHE,null,100,km,911 GT3,PORSCHE 911 GT3,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,41000,km,F360 Spider,FERRARI F360 Spider,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,43800,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Gold,Occasion,null,null,Zuzwil,null,CHEVROLET,null,13000,km,Corvette ZR1,CHEVROLET Corvette ZR1,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MAZDA,null,67200,km,RX-7 2.6 Turbo II,MAZDA RX-7 2.6 Turbo II,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,66300,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,47500,km,Panamera Turbo 4.8,PORSCHE Panamera Turbo 4.8,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,9800,km,Quattroporte 4.2,MASERATI Quattroporte 4.2,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,116100,km,CL 500,MERCEDES-BENZ CL 500,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,125600,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,SAAB,null,134600,km,9-3 2.0i-16 TS Aero,SAAB 9-3 2.0i-16 TS Aero,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,51000,km,CLS 500,MERCEDES-BENZ CLS 500,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BMW,null,7990,km,2002 Turbo,BMW 2002 Turbo,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,13800,km,SLK 200,MERCEDES-BENZ SLK 200,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,BMW,null,120900,km,530i Touring,BMW 530i Touring,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,162900,km,C 240 Elégance,MERCEDES-BENZ C 240 Elégance,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,OPEL,null,11700,km,Speedster 2.0 16V Turbo,OPEL Speedster 2.0 16V Turbo,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,FERRARI,null,58000,km,F360 Spider,FERRARI F360 Spider,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,21700,km,M5,BMW M5,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,69600,km,750i,BMW 750i,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,64500,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,DE TOMASO,null,68100,km,PANTERA,DE TOMASO PANTERA,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,ALFA ROMEO,null,56400,km,166 3.0 V6 24V Super,ALFA ROMEO 166 3.0 V6 24V Super,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,LAND ROVER,null,87000,km,Range Rover 4.6 HSE,LAND ROVER Range Rover 4.6 HSE,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,CHRYSLER,null,66900,km,Viper GTS,CHRYSLER Viper GTS,null,car,null,null,null
+Saloon,Blue,Oldtimer,null,null,Zuzwil,null,RENAULT,null,59800,km,ALPINE A310 1600 VG,RENAULT ALPINE A310 1600 VG,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,171700,km,A6 Avant 2.7 T q.Ambiente,AUDI A6 Avant 2.7 T q.Ambiente,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,YES!,null,9400,km,Roadster 3.2,YES! Roadster 3.2,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,48000,km,S 500,MERCEDES-BENZ S 500,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,37000,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,94500,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,LAND ROVER,null,63200,km,Range Rover 4.4TD Vogue,LAND ROVER Range Rover 4.4TD Vogue,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,108200,km,RS4 4.2 V8 quattro,AUDI RS4 4.2 V8 quattro,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,15800,km,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,JAGUAR,null,99800,km,XK8 Convertible,JAGUAR XK8 Convertible,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,12000,km,M5,BMW M5,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,39600,km,CL 500,MERCEDES-BENZ CL 500,null,car,null,null,null
+Coupé,Gold,Occasion,null,null,Zuzwil,null,RUF,null,46000,km,CTR,RUF CTR,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,51000,km,S 500,MERCEDES-BENZ S 500,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BMW,null,25700,km,135i,BMW 135i,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,RENAULT,null,41400,km,Alpine A110 1600 SX,RENAULT Alpine A110 1600 SX,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,124900,km,Brooklands,BENTLEY Brooklands,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,39000,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BMW,null,119600,km,750i,BMW 750i,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,54500,km,S 500 L 4Matic,MERCEDES-BENZ S 500 L 4Matic,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,PORSCHE,null,30100,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,7000,km,911 GT3 CUP,PORSCHE 911 GT3 CUP,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,123000,km,911 Carrera 2 RS,PORSCHE 911 Carrera 2 RS,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,47000,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,84000,km,SL 63 AMG,MERCEDES-BENZ SL 63 AMG,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,35600,km,E 50 AMG Avantgarde,MERCEDES-BENZ E 50 AMG Avantgarde,null,car,null,null,null
+Saloon,Yellow,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,89700,km,190 E 2.5-16 Evo II ABS,MERCEDES-BENZ 190 E 2.5-16 Evo II ABS,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,35500,km,911 Turbo Cabrio,PORSCHE 911 Turbo Cabrio,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,RENAULT,null,98600,km,Alpine V6 Turbo,RENAULT Alpine V6 Turbo,null,car,null,null,null
+Coupé,White,Oldtimer,null,null,Zuzwil,null,RENAULT,null,11200,km,ALPINE A310 2700 VA,RENAULT ALPINE A310 2700 VA,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,48300,km,CL 55 AMG,MERCEDES-BENZ CL 55 AMG,null,car,null,null,null
+Saloon,Beige,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,19100,km,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,45000,km,A6 Avant 2.7 T Ambition,AUDI A6 Avant 2.7 T Ambition,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,BMW,null,46000,km,M3,BMW M3,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,34500,km,SLR 730PS,MERCEDES-BENZ SLR 730PS,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,LANCIA,null,13000,km,Rally 037 stradale,LANCIA Rally 037 stradale,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,VOLVO,null,107000,km,S40 2.0 T,VOLVO S40 2.0 T,null,car,null,null,null
+Other,Gray,Oldtimer,null,null,Zuzwil,null,RENAULT,null,124500,km,R5 1400 Alpine Turbo,RENAULT R5 1400 Alpine Turbo,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,89500,km,911 Carrera,PORSCHE 911 Carrera,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,FERRARI,null,56500,km,Mondial 3.4 T,FERRARI Mondial 3.4 T,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MASERATI,null,63000,km,Spyder GT,MASERATI Spyder GT,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,FORD,null,64600,km,CAPRI RS 2600,FORD CAPRI RS 2600,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,BMW,null,127800,km,M3,BMW M3,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,66100,km,CLS 500,MERCEDES-BENZ CLS 500,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,67400,km,E 55 AMG Avantgarde,MERCEDES-BENZ E 55 AMG Avantgarde,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,McLAREN,null,1200,km,MP4-12C Coupé 3.8 V8,McLAREN MP4-12C Coupé 3.8 V8,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,43300,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,25100,km,SL 320,MERCEDES-BENZ SL 320,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,ROLLS-ROYCE,null,99300,km,Silver Spirit Mk. I,ROLLS-ROYCE Silver Spirit Mk. I,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,21500,km,Quattroporte 4.2,MASERATI Quattroporte 4.2,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,20100,km,E 63 AMG CGI,MERCEDES-BENZ E 63 AMG CGI,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,NSU,null,82804,km,TT,NSU TT,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,24000,km,Gallardo LP560-4 Coupé,LAMBORGHINI Gallardo LP560-4 Coupé,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,62300,km,S 500 4Matic,MERCEDES-BENZ S 500 4Matic,null,car,null,null,null
+Station Wagon,Black,Neu,null,null,Zuzwil,null,MERCEDES-BENZ,null,500,km,R 500 4Matic,MERCEDES-BENZ R 500 4Matic,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,45000,km,612,FERRARI 612,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,55000,km,Diablo 5.7,LAMBORGHINI Diablo 5.7,null,car,null,null,null
+Convertible,Gold,Occasion,null,null,Zuzwil,null,BMW,null,78900,km,M3,BMW M3,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,8000,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Other,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,65400,km,611 DS,MERCEDES-BENZ 611 DS,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,49000,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,BMW,null,33600,km,M5,BMW M5,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,45000,km,GranTurismo S,MASERATI GranTurismo S,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,23800,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,222300,km,Alpine A310 V6,RENAULT Alpine A310 V6,null,car,null,null,null
+SUV,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,20800,km,ML 500,MERCEDES-BENZ ML 500,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,34000,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,AUDI,null,95300,km,A4 3.0 V6,AUDI A4 3.0 V6,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,TALBOT,null,40100,km,Sunbeam Lotus,TALBOT Sunbeam Lotus,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,61000,km,CLK 320 Sport,MERCEDES-BENZ CLK 320 Sport,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,2900,km,Cayenne Turbo Techart Magnum Kit,PORSCHE Cayenne Turbo Techart Magnum Kit,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,29300,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,ROLLS-ROYCE,null,54000,km,Phantom 6.7 V12,ROLLS-ROYCE Phantom 6.7 V12,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,MG,null,48800,km,C GT,MG MGC GT,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,49900,km,911 GT2,PORSCHE 911 GT2,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,31900,km,E 320 Elégance 4-Matic,MERCEDES-BENZ E 320 Elégance 4-Matic,null,car,null,null,null
+Other,Silver,Occasion,null,null,Zuzwil,null,CITROEN,null,80500,km,2CV6 Charleston,CITROEN 2CV6 Charleston,null,car,null,null,null
+Coupé,Black,Oldtimer,null,null,Basel,null,ROLLS-ROYCE,null,32000,km,CORNICHE II Coupé,ROLLS-ROYCE CORNICHE II Coupé,null,car,null,null,null
+Coupé,Purple,Occasion,null,null,Zuzwil,null,JAGUAR,null,5300,km,D-Type XKD525,JAGUAR D-Type XKD525,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,FERRARI,null,14500,km,575M NOVITEC,FERRARI 575M NOVITEC,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,41000,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,VW,null,27000,km,Eos 2.0 FSI T,VW Eos 2.0 FSI T,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,52800,km,456 GTA,FERRARI 456 GTA,null,car,null,null,null
+Saloon,Purple,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,67400,km,E 50 AMG Avantgarde,MERCEDES-BENZ E 50 AMG Avantgarde,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,37500,km,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,null,car,null,null,null
+Station Wagon,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,44000,km,E 420 Elégance,MERCEDES-BENZ E 420 Elégance,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,41000,km,F355 GTS,FERRARI F355 GTS,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,JAGUAR,null,25000,km,XJ 220,JAGUAR XJ 220,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,55800,km,F360 Spider,FERRARI F360 Spider,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,LAND ROVER,null,55800,km,Discovery 3.9,LAND ROVER Discovery 3.9,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,JAGUAR,null,161400,km,XJ 4.0 Sovereign,JAGUAR XJ 4.0 Sovereign,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,9500,km,Murciélago LP670-4 SV Cpé,LAMBORGHINI Murciélago LP670-4 SV Cpé,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,MAZDA,null,6900,km,MX-5 1.8i 16V Confort,MAZDA MX-5 1.8i 16V Confort,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,FIAT,null,120000,km,124 Spider CSA Abarth,FIAT 124 Spider CSA Abarth,null,car,null,null,null
+Station Wagon,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,10400,km,CLS 500,MERCEDES-BENZ CLS 500,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,BMW,null,110600,km,320d xDrive M-Sportpaket,BMW 320d xDrive M-Sportpaket,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,54500,km,S6 quattro 4.2,AUDI S6 quattro 4.2,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,34000,km,SL 65 AMG BLACK SERIES,MERCEDES-BENZ SL 65 AMG BLACK SERIES,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,27600,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,47000,km,924,PORSCHE 924,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,20000,km,Continental Supersports Conv.,BENTLEY Continental Supersports Conv.,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,BMW,null,238500,km,323 323i,BMW 323 323i,null,car,null,null,null
+SUV,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,13300,km,ML 63 AMG 4Matic,MERCEDES-BENZ ML 63 AMG 4Matic,null,car,null,null,null
+Other,Yellow,Occasion,null,null,Zuzwil,null,DAEWOO,null,103000,km,Tacuma 2000i CDX,DAEWOO Tacuma 2000i CDX,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,127850,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,ALFA ROMEO,null,18400,km,GTV 2000 Bertone,ALFA ROMEO GTV 2000 Bertone,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,29000,km,F355 Berlinetta,FERRARI F355 Berlinetta,null,car,null,null,null
+Coupé,Purple,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,44500,km,Diablo 5.7 SV,LAMBORGHINI Diablo 5.7 SV,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,99000,km,A 150 Classic,MERCEDES-BENZ A 150 Classic,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,1500,km,S 500,MERCEDES-BENZ S 500,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,57500,km,RS4 Avant quattro,AUDI RS4 Avant quattro,null,car,null,null,null
+Convertible,Black,Oldtimer,null,null,Basel,null,ROLLS-ROYCE,null,70000,km,CORNICHE Convertible,ROLLS-ROYCE CORNICHE Convertible,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,9900,km,S 320 CDI,MERCEDES-BENZ S 320 CDI,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,9900,km,911 Turbo S Cabrio,PORSCHE 911 Turbo S Cabrio,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,99800,km,525xi,BMW 525xi,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,35100,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Saloon,Yellow,Occasion,null,null,Zuzwil,null,BENTLEY,null,35000,km,Continental FlyingSpur6.0,BENTLEY Continental FlyingSpur6.0,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,13500,km,Murciélago 6.2 Coupé,LAMBORGHINI Murciélago 6.2 Coupé,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,112400,km,RS6 Avant 5.0 V10 quattro 730PS,AUDI RS6 Avant 5.0 V10 quattro 730PS,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,22500,km,575M,FERRARI 575M,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,113800,km,612,FERRARI 612,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,83900,km,E 320 Elégance 4-Matic,MERCEDES-BENZ E 320 Elégance 4-Matic,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,18300,km,740iL,BMW 740iL,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,58900,km,Quattroporte 4.2 Sport GT,MASERATI Quattroporte 4.2 Sport GT,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,70900,km,SL 320,MERCEDES-BENZ SL 320,null,car,null,null,null
+SUV,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,16500,km,ML 63 AMG 4Matic,MERCEDES-BENZ ML 63 AMG 4Matic,null,car,null,null,null
+Coupé,Red,Oldtimer,null,null,Zuzwil,null,MARCOS,null,85000,km,1600 GT,MARCOS 1600 GT,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,14500,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,LANCIA,null,130300,km,Delta HF Integrale Evo 4V,LANCIA Delta HF Integrale Evo 4V,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,43000,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,HONDA,null,186000,km,Accord Coupé V6 3.0i VTEC,HONDA Accord Coupé V6 3.0i VTEC,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,TRIUMPH,null,12800,km,Dolomite Sprint,TRIUMPH Dolomite Sprint,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,VOLVO,null,145000,km,S60 2.4T,VOLVO S60 2.4T,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,33400,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,JAGUAR,null,44200,km,S-Type 4.0 V8,JAGUAR S-Type 4.0 V8,null,car,null,null,null
+Coupé,Black,Oldtimer,null,null,Zuzwil,null,LAMBORGHINI,null,48000,km,Espada GT 400 Serie 3,LAMBORGHINI Espada GT 400 Serie 3,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,33613,km,SL 65 AMG,MERCEDES-BENZ SL 65 AMG,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,156300,km,500 SE,MERCEDES-BENZ 500 SE,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,JAGUAR,null,69200,km,S-Type 4.0 V8,JAGUAR S-Type 4.0 V8,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,129700,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MG,null,2500,km,METRO 6R4 Gruppe B,MG METRO 6R4 Gruppe B,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,152000,km,190 E 2.5-16 ABS,MERCEDES-BENZ 190 E 2.5-16 ABS,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,70400,km,SLK 350,MERCEDES-BENZ SLK 350,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,177000,km,DAUPHINE GORDINI,RENAULT DAUPHINE GORDINI,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,LOTUS,null,26800,km,Super Seven HKT,LOTUS Super Seven HKT,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,TOYOTA,null,144000,km,Corolla 2.0 D4D L.Terra,TOYOTA Corolla 2.0 D4D L.Terra,null,car,null,null,null
+SUV,Red,Occasion,null,null,Zuzwil,null,LAND ROVER,null,90400,km,Range Rover 4.4 V8 HSE,LAND ROVER Range Rover 4.4 V8 HSE,null,car,null,null,null
+Coupé,Red,Neu,null,null,Zuzwil,null,PORSCHE,null,100,km,911 Turbo S,PORSCHE 911 Turbo S,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BENTLEY,null,42300,km,Arnage Green Label,BENTLEY Arnage Green Label,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,AUDI,null,34800,km,S3 2.0 TFSI quattro,AUDI S3 2.0 TFSI quattro,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,44600,km,911 GT2,PORSCHE 911 GT2,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,FERRARI,null,28000,km,575M,FERRARI 575M,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,101800,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Porrentruy,null,ALFA ROMEO,null,23900,km,8C,ALFA ROMEO 8C,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,53600,km,F355 Berlinetta,FERRARI F355 Berlinetta,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,13200,km,S 63 AMG,MERCEDES-BENZ S 63 AMG,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,33600,km,M5,BMW M5,null,car,null,null,null
+Other,Black,Occasion,null,null,Zuzwil,null,VW,null,71700,km,Touran 1.4 TSI Trend,VW Touran 1.4 TSI Trend,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,28900,km,599 GTB HGTE,FERRARI 599 GTB HGTE,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,108100,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,23000,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,38000,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,42500,km,911 GT3,PORSCHE 911 GT3,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,23900,km,E 63 AMG S 4Matic,MERCEDES-BENZ E 63 AMG S 4Matic,null,car,null,null,null
+SUV,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,79000,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,BENTLEY,null,85700,km,ARNAGE Red Label,BENTLEY ARNAGE Red Label,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,33900,km,735i,BMW 735i,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,VW,null,37800,km,Phaeton 6.0 W12 4Motion,VW Phaeton 6.0 W12 4Motion,null,car,null,null,null
+Coupé,Gray,Oldtimer,null,null,Zuzwil,null,RENAULT,null,34900,km,Alpine A110 1600S VC,RENAULT Alpine A110 1600S VC,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,BMW,null,21800,km,X5 4.6is,BMW X5 4.6is,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,BMW,null,49600,km,M3,BMW M3,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BMW,null,77500,km,335i,BMW 335i,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,26300,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,500,km,C 63 AMG BLACK SERIES,MERCEDES-BENZ C 63 AMG BLACK SERIES,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,18200,km,456M GTA,FERRARI 456M GTA,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,206000,km,E 500 Limited,MERCEDES-BENZ E 500 Limited,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,BMW,null,211000,km,323 Alpina Look,BMW 323 Alpina Look,null,car,null,null,null
+Other,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,61200,km,Clio 3.0 Sport V6,RENAULT Clio 3.0 Sport V6,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,75100,km,CL 500,MERCEDES-BENZ CL 500,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,LINCOLN,null,119600,km,Continental,LINCOLN Continental,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,26300,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,89000,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,SEAT,null,53300,km,Leon 2.0 TSI FR,SEAT Leon 2.0 TSI FR,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,13900,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Sursee,null,PORSCHE,null,6300,km,911 GT3 RS,PORSCHE 911 GT3 RS,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,VOLVO,null,27900,km,C70 T5,VOLVO C70 T5,null,car,null,null,null
+Coupé,Silver,Oldtimer,null,null,Zuzwil,null,RENAULT,null,42940,km,ALPINE 1600 VF,RENAULT ALPINE 1600 VF,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,BENTLEY,null,60100,km,Turbo R,BENTLEY Turbo R,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,36800,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,VW,null,119000,km,Phaeton 4.2 V8 4Motion,VW Phaeton 4.2 V8 4Motion,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,FIAT,null,80000,km,131 Racing / Sport,FIAT 131 Racing / Sport,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,21400,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,19300,km,Gallardo LP570-4 Coupé SL,LAMBORGHINI Gallardo LP570-4 Coupé SL,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,114000,km,924 Turbo,PORSCHE 924 Turbo,null,car,null,null,null
+Coupé,Yellow,Occasion,null,null,Zuzwil,null,FERRARI,null,49000,km,456M GT,FERRARI 456M GT,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,18200,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,TRIUMPH,null,38000,km,Spitfire MK IV,TRIUMPH Spitfire MK IV,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,6000,km,RS6 Avant 4.0 TFSI V8 qu,AUDI RS6 Avant 4.0 TFSI V8 qu,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,CHEVROLET,null,27700,km,CORVETTE,CHEVROLET CORVETTE,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,JAGUAR,null,95100,km,XJR 4.0 V8 S/C,JAGUAR XJR 4.0 V8 S/C,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,18000,km,Gallardo LP570-4 Coupé SL,LAMBORGHINI Gallardo LP570-4 Coupé SL,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,91000,km,911 Carrera RS Clubsport/993 GT2,PORSCHE 911 Carrera RS Clubsport/993 GT2,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,40300,km,S 65 AMG L,MERCEDES-BENZ S 65 AMG L,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,77000,km,CLS 55 AMG,MERCEDES-BENZ CLS 55 AMG,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,SUBARU,null,161500,km,Impreza 2.5T WRX,SUBARU Impreza 2.5T WRX,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,172800,km,R5 Alpine Turbo,RENAULT R5 Alpine Turbo,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,96000,km,911 Carrera 4 Ruf Turbo BTR 2 420 PS,PORSCHE 911 Carrera 4 Ruf Turbo BTR 2 420 PS,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,FERRARI,null,42600,km,F360 Modena Berlinetta,FERRARI F360 Modena Berlinetta,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,JAGUAR,null,32900,km,S-Type 4.2 V8 S/C R,JAGUAR S-Type 4.2 V8 S/C R,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,118200,km,C 180 Esprit,MERCEDES-BENZ C 180 Esprit,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,FERRARI,null,12000,km,F12 Berlinetta,FERRARI F12 Berlinetta,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,96500,km,S 55 AMG,MERCEDES-BENZ S 55 AMG,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,38500,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Sursee,null,MERCEDES-BENZ,null,1000,km,300SL Roadster,MERCEDES-BENZ 300SL Roadster,null,car,null,null,null
+Other,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,159700,km,R5 1400 Alpine Turbo,RENAULT R5 1400 Alpine Turbo,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,1350,km,RS4 4.2 V8 quattro,AUDI RS4 4.2 V8 quattro,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,67700,km,A6 2.4,AUDI A6 2.4,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,65000,km,R8 Coupé 4.2,AUDI R8 Coupé 4.2,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,125900,km,525i,BMW 525i,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,DODGE,null,18600,km,VIPER RT/10,DODGE VIPER RT/10,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,JEEP,null,61000,km,Grand Cherokee 5.2 Ltd.,JEEP Grand Cherokee 5.2 Ltd.,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,75900,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,DODGE,null,37900,km,VIPER,DODGE VIPER,null,car,null,null,null
+Other,White,Occasion,null,null,Zuzwil,null,RENAULT,null,145000,km,Espace 2.0 T Privilège,RENAULT Espace 2.0 T Privilège,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,39400,km,911 Carrera S,PORSCHE 911 Carrera S,null,car,null,null,null
+Station Wagon,Blue,Neu,null,null,Zuzwil,null,AUDI,null,100,km,RS6 Avant 4.0 TFSI V8 qu,AUDI RS6 Avant 4.0 TFSI V8 qu,null,car,null,null,null
+SUV,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,148300,km,ML 400 CDI,MERCEDES-BENZ ML 400 CDI,null,car,null,null,null
+Saloon,Silver,Oldtimer,null,null,Zuzwil,null,TOYOTA,null,57700,km,CARINA Deluxe,TOYOTA CARINA Deluxe,null,car,null,null,null
+Saloon,Yellow,Occasion,null,null,Zuzwil,null,BMW,null,3000,km,M5,BMW M5,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,58000,km,S 320,MERCEDES-BENZ S 320,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,32000,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,CHRYSLER,null,47100,km,300C T 5.7 HEMI V8,CHRYSLER 300C T 5.7 HEMI V8,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,64800,km,Diablo SE 30,LAMBORGHINI Diablo SE 30,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Sursee,null,FERRARI,null,7000,km,F40 / F50,FERRARI F40 / F50,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,49900,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,135800,km,911 Carrera,PORSCHE 911 Carrera,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,127800,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MASERATI,null,33500,km,Quattroporte 4.2,MASERATI Quattroporte 4.2,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LOTUS,null,62200,km,EUROPA,LOTUS EUROPA,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,38500,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,57600,km,Panamera 4S 4.8,PORSCHE Panamera 4S 4.8,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,199300,km,5 SERIES B7 TURBO,BMW-ALPINA 5 SERIES B7 TURBO,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,FORD,null,164400,km,Sierra 2.0i Cosworth 4x4,FORD Sierra 2.0i Cosworth 4x4,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,64500,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,33000,km,CL 5.8 BRABUS,MERCEDES-BENZ CL 5.8 BRABUS,null,car,null,null,null
+Saloon,Gray,Oldtimer,null,null,Zuzwil,null,FORD,null,69377,km,CORTINA Cortina Lotus,FORD CORTINA Cortina Lotus,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,91600,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,47400,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Black,Neu,null,null,Zuzwil,null,LOTUS,null,150,km,Esprit 3.5 V8 SE,LOTUS Esprit 3.5 V8 SE,null,car,null,null,null
+SUV,White,Vorführmodell,null,null,Zuzwil,null,HUMMER,null,150,km,H3 3.7 Adventure,HUMMER H3 3.7 Adventure,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,FERRARI,null,29300,km,F430,FERRARI F430,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,24300,km,Quattroporte 4.2 Sport GT,MASERATI Quattroporte 4.2 Sport GT,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,578,km,2002 Turbo,BMW 2002 Turbo,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,FERRARI,null,30300,km,F360 Modena Berlinetta,FERRARI F360 Modena Berlinetta,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,23000,km,SLS 63 AMG,MERCEDES-BENZ SLS 63 AMG,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,31200,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,42600,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,VW,null,36300,km,Golf 2.0 TSI R 4Motion,VW Golf 2.0 TSI R 4Motion,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,77800,km,911 Carrera 4,PORSCHE 911 Carrera 4,null,car,null,null,null
+Saloon,Yellow,Occasion,null,null,Zuzwil,null,AUDI,null,103100,km,S6 quattro,AUDI S6 quattro,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,95700,km,RS4 4.2 V8 quattro,AUDI RS4 4.2 V8 quattro,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,VW,null,108500,km,Touareg R50 V10,VW Touareg R50 V10,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,AUDI,null,101300,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BMW,null,49900,km,328i A Cabrio,BMW 328i A Cabrio,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,BMW,null,176000,km,323 323i,BMW 323 323i,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,SAAB,null,117100,km,9-5 2.3T Aero,SAAB 9-5 2.3T Aero,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,89200,km,E 240 Elégance,MERCEDES-BENZ E 240 Elégance,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,TOYOTA,null,240500,km,LAND CRUISER BJ 40 LT,TOYOTA LAND CRUISER BJ 40 LT,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,61800,km,911 Carrera Targa,PORSCHE 911 Carrera Targa,null,car,null,null,null
+Convertible,Yellow,Occasion,null,null,Zuzwil,null,PORSCHE,null,28000,km,911 Turbo S Cabrio PDK,PORSCHE 911 Turbo S Cabrio PDK,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,BMW,null,103600,km,Z4 2.5i Roadster,BMW Z4 2.5i Roadster,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,55200,km,SL 500 Special Edition,MERCEDES-BENZ SL 500 Special Edition,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,59300,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,4600,km,M5,BMW M5,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,PGO,null,3000,km,Cevennes,PGO Cevennes,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,28000,km,F360 Modena Berlinetta,FERRARI F360 Modena Berlinetta,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,25300,km,CLS 350 CGI,MERCEDES-BENZ CLS 350 CGI,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,AUDI,null,63400,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Sursee,null,MERCEDES-BENZ,null,500,km,280 3.5 V8 Cabrio,MERCEDES-BENZ 280 3.5 V8 Cabrio,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BMW,null,65300,km,330Ci,BMW 330Ci,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,BMW,null,3600,km,X5 4.4i,BMW X5 4.4i,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,103800,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,BMW,null,33700,km,328i,BMW 328i,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,BMW,null,88000,km,M3 CSL,BMW M3 CSL,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,52500,km,CLK 55 AMG Avantgarde,MERCEDES-BENZ CLK 55 AMG Avantgarde,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,VOLVO,null,83000,km,V70 2.4T,VOLVO V70 2.4T,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,FERRARI,null,67000,km,F355 Spider,FERRARI F355 Spider,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,BMW,null,89200,km,740i,BMW 740i,null,car,null,null,null
+Other,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,60500,km,B 200 T Sailing Edition,MERCEDES-BENZ B 200 T Sailing Edition,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,13960,km,Diablo 5.7 VT Roadster,LAMBORGHINI Diablo 5.7 VT Roadster,null,car,null,null,null
+Coupé,Orange,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,7000,km,DIABLO SV-R Race,LAMBORGHINI DIABLO SV-R Race,null,car,null,null,null
+Station Wagon,White,Occasion,null,null,Zuzwil,null,AUDI,null,55000,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Station Wagon,White,Occasion,null,null,Zuzwil,null,AUDI,null,15000,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,PORSCHE,null,30300,km,Panamera Turbo 4.8,PORSCHE Panamera Turbo 4.8,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,147400,km,E 55 AMG Avantgarde,MERCEDES-BENZ E 55 AMG Avantgarde,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,26800,km,S 600,MERCEDES-BENZ S 600,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,34400,km,911 Carrera Cabrio,PORSCHE 911 Carrera Cabrio,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,66100,km,A4 Avant 3.0 V6 quattro,AUDI A4 Avant 3.0 V6 quattro,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,PORSCHE,null,20900,km,911 GT2,PORSCHE 911 GT2,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,FORD,null,11000,km,Escort 2.0i RS Cosworth,FORD Escort 2.0i RS Cosworth,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,NISSAN,null,54500,km,Murano 3.5 V6,NISSAN Murano 3.5 V6,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,NISSAN,null,162900,km,200 SX 1.8 16V Turbo,NISSAN 200 SX 1.8 16V Turbo,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,43400,km,Boxster S 3.2,PORSCHE Boxster S 3.2,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,BMW,null,69800,km,328i Coupé,BMW 328i Coupé,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,MASERATI,null,114800,km,Coupé GT,MASERATI Coupé GT,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,33000,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,85200,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,26300,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,38500,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,41300,km,F355 Berlinetta,FERRARI F355 Berlinetta,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,SAAB,null,138000,km,9-3 2.0i-16 T SE,SAAB 9-3 2.0i-16 T SE,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,24000,km,SL 65 AMG,MERCEDES-BENZ SL 65 AMG,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,42500,km,SLK 55 AMG,MERCEDES-BENZ SLK 55 AMG,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,BMW,null,195800,km,M3,BMW M3,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,BENTLEY,null,175100,km,T 2,BENTLEY T 2,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,45000,km,750i xDrive,BMW 750i xDrive,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,BENTLEY,null,62000,km,Arnage T,BENTLEY Arnage T,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,73200,km,Boxster 2.5,PORSCHE Boxster 2.5,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,69200,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,80400,km,911 Carrera 4 Cabrio TECHART,PORSCHE 911 Carrera 4 Cabrio TECHART,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,RENAULT,null,91000,km,Alpine A110,RENAULT Alpine A110,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,BMW,null,23800,km,X5 4.6is,BMW X5 4.6is,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,BMW,null,49700,km,330i,BMW 330i,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,16200,km,Murciélago 6.2 Roadster,LAMBORGHINI Murciélago 6.2 Roadster,null,car,null,null,null
+Convertible,Gray,Oldtimer,null,null,Zuzwil,null,AUSTIN-HEALEY,null,9999,km,BT7 3000 Mk I,AUSTIN-HEALEY BT7 3000 Mk I,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,15100,km,CL 500,MERCEDES-BENZ CL 500,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,McLAREN,null,19900,km,MP4-12C Coupé 3.8 V8,McLAREN MP4-12C Coupé 3.8 V8,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,27800,km,M5,BMW M5,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,43000,km,SL 65 AMG BLACK SERIES,MERCEDES-BENZ SL 65 AMG BLACK SERIES,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,62000,km,730d,BMW 730d,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,BMW,null,67800,km,530d GT,BMW 530d GT,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,36000,km,CLK 63 AMG Black Series,MERCEDES-BENZ CLK 63 AMG Black Series,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,BMW,null,26500,km,X5 4.6is,BMW X5 4.6is,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,BMW,null,14700,km,X5 4.4i,BMW X5 4.4i,null,car,null,null,null
+Convertible,Red,Neu,null,null,Zuzwil,null,PORSCHE,null,450,km,911 Turbo S Cabrio,PORSCHE 911 Turbo S Cabrio,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,19999,km,F430 Scuderia,FERRARI F430 Scuderia,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,94000,km,S 65 AMG L,MERCEDES-BENZ S 65 AMG L,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,88000,km,M3,BMW M3,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,43000,km,CL 65 AMG,MERCEDES-BENZ CL 65 AMG,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,123400,km,C 230 Elégance,MERCEDES-BENZ C 230 Elégance,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,111500,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,100200,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,VW,null,105800,km,Golf R32 4Motion,VW Golf R32 4Motion,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,41100,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,DATSUN,null,50300,km,280 ZX,DATSUN 280 ZX,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,64000,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,VW,null,50400,km,Phaeton 6.0 W12 4Motion,VW Phaeton 6.0 W12 4Motion,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,36900,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,SIMCA,null,18200,km,Rallye2,SIMCA Rallye2,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,33000,km,Murciélago LP640-4 Cpé,LAMBORGHINI Murciélago LP640-4 Cpé,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,72000,km,E 60 Carlsson,MERCEDES-BENZ E 60 Carlsson,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,26800,km,Diablo 5.7,LAMBORGHINI Diablo 5.7,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,ROLLS-ROYCE,null,38000,km,Corniche,ROLLS-ROYCE Corniche,null,car,null,null,null
+Coupé,Gray,Vorführmodell,null,null,Zuzwil,null,MERCEDES-BENZ,null,100,km,CLK 430 Elégance,MERCEDES-BENZ CLK 430 Elégance,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,59900,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,BMW,null,85400,km,740i,BMW 740i,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,29000,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,26200,km,F360 Modena Berlinetta,FERRARI F360 Modena Berlinetta,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,46700,km,Diablo 5.7 VT,LAMBORGHINI Diablo 5.7 VT,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,BMW,null,8500,km,M6,BMW M6,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,81000,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,91100,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,31800,km,DB9 Volante,ASTON MARTIN DB9 Volante,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,62000,km,S 600,MERCEDES-BENZ S 600,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,FERRARI,null,20700,km,F360 Modena Berlinetta,FERRARI F360 Modena Berlinetta,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,74100,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,61300,km,911 GT2,PORSCHE 911 GT2,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MITSUBISHI,null,120800,km,LANCER EVO V,MITSUBISHI LANCER EVO V,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,29800,km,911 GT3,PORSCHE 911 GT3,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,RENAULT,null,31800,km,Alpine A110 1300 VC Gordini,RENAULT Alpine A110 1300 VC Gordini,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,9000,km,Murciélago 6.2 Coupé,LAMBORGHINI Murciélago 6.2 Coupé,null,car,null,null,null
+Station Wagon,White,Occasion,null,null,Zuzwil,null,AUDI,null,120000,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,75400,km,911 Carrera Cabrio,PORSCHE 911 Carrera Cabrio,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,49000,km,A8  6.0 quattro,AUDI A8  6.0 quattro,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,12200,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,128000,km,911 Carrera Targa,PORSCHE 911 Carrera Targa,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,41700,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,82600,km,2002 Turbo,BMW 2002 Turbo,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,ROLLS-ROYCE,null,30900,km,Silver Shadow II,ROLLS-ROYCE Silver Shadow II,null,car,null,null,null
+Coupé,Black,Neu,null,null,Zuzwil,null,AUDI,null,500,km,R8 Coupé 4.2,AUDI R8 Coupé 4.2,null,car,null,null,null
+Convertible,Silver,Oldtimer,null,null,Safenwil,null,TRIUMPH,null,98320,km,TR3,TRIUMPH TR3,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,BMW,null,32900,km,X5 4.6is,BMW X5 4.6is,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,RENAULT,null,68900,km,Alpine A310 V6,RENAULT Alpine A310 V6,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,47900,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RUF,null,36000,km,RT 12,RUF RT 12,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,77600,km,911 Carrera,PORSCHE 911 Carrera,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,141000,km,540i,BMW 540i,null,car,null,null,null
+SUV,Blue,Occasion,null,null,Zuzwil,null,LINCOLN,null,130000,km,Navigator 32 V,LINCOLN Navigator 32 V,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,37000,km,612,FERRARI 612,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,NISSAN,null,98000,km,SUNNY 2.0 16V GTI-R Rallye,NISSAN SUNNY 2.0 16V GTI-R Rallye,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,57400,km,C 63 AMG Avantgarde,MERCEDES-BENZ C 63 AMG Avantgarde,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,94000,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,128200,km,911 Turbo ll 3.6,PORSCHE 911 Turbo ll 3.6,null,car,null,null,null
+Coupé,Orange,Occasion,null,null,Zuzwil,null,ALFA ROMEO,null,584,km,GTV 6 2.5,ALFA ROMEO GTV 6 2.5,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,TRIUMPH,null,10800,km,Dolomite Sprint,TRIUMPH Dolomite Sprint,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,75200,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,95400,km,CLS 500,MERCEDES-BENZ CLS 500,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,70000,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,197800,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+SUV,Red,Occasion,null,null,Zuzwil,null,BMW,null,61900,km,X5 4.8is,BMW X5 4.8is,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,68100,km,911 Carrera 4 S,PORSCHE 911 Carrera 4 S,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,JAGUAR,null,103000,km,XKR S/C,JAGUAR XKR S/C,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,87800,km,E 420 Avantgarde,MERCEDES-BENZ E 420 Avantgarde,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,BMW,null,114600,km,730i,BMW 730i,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BMW,null,66800,km,M6,BMW M6,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,59000,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,MITSUBISHI,null,114800,km,Starion 2000 Turbo,MITSUBISHI Starion 2000 Turbo,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,198000,km,190 E 2.5-16 ABS,MERCEDES-BENZ 190 E 2.5-16 ABS,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,97100,km,2002 Turbo,BMW 2002 Turbo,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,500,km,CLK DTM AMG Cabriolet,MERCEDES-BENZ CLK DTM AMG Cabriolet,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,166550,km,SLK 230 Kompressor,MERCEDES-BENZ SLK 230 Kompressor,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,BENTLEY,null,145000,km,Arnage R,BENTLEY Arnage R,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,97000,km,500 SL,MERCEDES-BENZ 500 SL,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,30400,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,LANCIA,null,68000,km,DELTA Integrale EVO,LANCIA DELTA Integrale EVO,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,48200,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,AUDI,null,31750,km,RS5 Coupé 4.2FSI quattro,AUDI RS5 Coupé 4.2FSI quattro,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,8700,km,GranTurismo,MASERATI GranTurismo,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,LAND ROVER,null,9000,km,Range Rover 5.0 V8 SC,LAND ROVER Range Rover 5.0 V8 SC,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,88500,km,ML 63 AMG 4Matic,MERCEDES-BENZ ML 63 AMG 4Matic,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,LAND ROVER,null,46500,km,Range Rover 4.6 HSE,LAND ROVER Range Rover 4.6 HSE,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,McLAREN,null,16000,km,MP4-12C Spider 3.8 V8,McLAREN MP4-12C Spider 3.8 V8,null,car,null,null,null
+Saloon,Green,Oldtimer,null,null,Zuzwil,null,NSU,null,10352,km,TT,NSU TT,null,car,null,null,null
+Coupé,Gray,Oldtimer,null,null,Zuzwil,null,FORD,null,1,km,T - Roadster,FORD T - Roadster,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,125000,km,S 600 L,MERCEDES-BENZ S 600 L,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,128000,km,S 500,MERCEDES-BENZ S 500,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,68900,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,52900,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,25400,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Other,Black,Occasion,null,null,Zuzwil,null,SEAT,null,132200,km,Ibiza 1.9 TDI FR,SEAT Ibiza 1.9 TDI FR,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,FERRARI,null,45000,km,F430,FERRARI F430,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,62000,km,A6 4.2 V8 quattro,AUDI A6 4.2 V8 quattro,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,20000,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,60800,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,FERRARI,null,53600,km,F360 Spider,FERRARI F360 Spider,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,88600,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,75300,km,6.7 BRABUS,MERCEDES-BENZ 6.7 BRABUS,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,BMW,null,34500,km,M6,BMW M6,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,85000,km,Alpine A110 1300,RENAULT Alpine A110 1300,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,71900,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,AUDI,null,37000,km,R8 Spyder 5.2,AUDI R8 Spyder 5.2,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,46900,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,31000,km,Alpine A310 V6,RENAULT Alpine A310 V6,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,41900,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,26800,km,E 420 Elégance,MERCEDES-BENZ E 420 Elégance,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,32500,km,456 GTA,FERRARI 456 GTA,null,car,null,null,null
+Convertible,Black,Vorführmodell,null,null,Zuzwil,null,MERCEDES-BENZ,null,300,km,SLK 200 Kompressor,MERCEDES-BENZ SLK 200 Kompressor,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,124800,km,330xi,BMW 330xi,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,20600,km,Diablo 5.7,LAMBORGHINI Diablo 5.7,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,PORSCHE,null,47500,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,15300,km,M5,BMW M5,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,117400,km,RS4 Avant 4.2 V8 quattro,AUDI RS4 Avant 4.2 V8 quattro,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,CHEVROLET,null,6300,km,Corvette ZR1,CHEVROLET Corvette ZR1,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,LANCIA,null,131000,km,Delta HF Integrale Evo 4V,LANCIA Delta HF Integrale Evo 4V,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,ALFA ROMEO,null,69300,km,Spider 2.0,ALFA ROMEO Spider 2.0,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Sursee,null,MERCEDES-BENZ,null,5000,km,300 300SL W198,MERCEDES-BENZ 300 300SL W198,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,AUDI,null,34650,km,RS4 Cabriolet 4.2 quattro,AUDI RS4 Cabriolet 4.2 quattro,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,33800,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Saloon,Purple,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,32000,km,S 500,MERCEDES-BENZ S 500,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,35000,km,E 55 AMG Avantgarde,MERCEDES-BENZ E 55 AMG Avantgarde,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,BMW,null,39200,km,X1 xDrive 25d Sport Line,BMW X1 xDrive 25d Sport Line,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,TALBOT,null,182200,km,Murena 2.2,TALBOT Murena 2.2,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,MASERATI,null,78300,km,Spyder GT,MASERATI Spyder GT,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,FERRARI,null,4400,km,F430,FERRARI F430,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,19200,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,FERRARI,null,8000,km,F360 Modena Berlinetta,FERRARI F360 Modena Berlinetta,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,144100,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,8100,km,575M,FERRARI 575M,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,BMW,null,27700,km,Z1,BMW Z1,null,car,null,null,null
+SUV,White,Occasion,null,null,Zuzwil,null,PORSCHE,null,115000,km,Cayenne S,PORSCHE Cayenne S,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,8900,km,SL 320,MERCEDES-BENZ SL 320,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,41500,km,F360 Modena Berlinetta,FERRARI F360 Modena Berlinetta,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,86100,km,535i,BMW 535i,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,BMW,null,79800,km,320i Touring,BMW 320i Touring,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,JAGUAR,null,77600,km,XKR S/C Convertible,JAGUAR XKR S/C Convertible,null,car,null,null,null
+SUV,Green,Occasion,null,null,Zuzwil,null,LAND ROVER,null,70000,km,Range Rover 4.6 HSE,LAND ROVER Range Rover 4.6 HSE,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,79500,km,CLK 55 AMG Avantgarde,MERCEDES-BENZ CLK 55 AMG Avantgarde,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,FERRARI,null,22000,km,599 GTB,FERRARI 599 GTB,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,TOYOTA,null,54100,km,Celica 2800 i Supra,TOYOTA Celica 2800 i Supra,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,LAND ROVER,null,151300,km,RANGE ROVER 3.5,LAND ROVER RANGE ROVER 3.5,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Sursee,null,FERRARI,null,5000,km,Dino 246 GTS,FERRARI Dino 246 GTS,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,39300,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,52000,km,911 Turbo Cabrio,PORSCHE 911 Turbo Cabrio,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,78000,km,911 Carrera Cabrio,PORSCHE 911 Carrera Cabrio,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,92500,km,V8 Vantage 4.3,ASTON MARTIN V8 Vantage 4.3,null,car,null,null,null
+Convertible,Black,Neu,null,null,Zuzwil,null,LAMBORGHINI,null,90,km,Aventador LP700-4 Rds,LAMBORGHINI Aventador LP700-4 Rds,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,29000,km,DB7 Vantage Volante,ASTON MARTIN DB7 Vantage Volante,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,48200,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,157000,km,5 SERIES B7 (E28),BMW-ALPINA 5 SERIES B7 (E28),null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,33700,km,E 50 AMG Avantgarde,MERCEDES-BENZ E 50 AMG Avantgarde,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,16500,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,36700,km,Gallardo 5.0 V10 Coupé,LAMBORGHINI Gallardo 5.0 V10 Coupé,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,96400,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,JEEP,null,126200,km,Grand Cherokee 4.0 Ltd.,JEEP Grand Cherokee 4.0 Ltd.,null,car,null,null,null
+Coupé,Yellow,Occasion,null,null,Zuzwil,null,FERRARI,null,31700,km,Testarossa,FERRARI Testarossa,null,car,null,null,null
+SUV,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,25100,km,ML 63 AMG 4Matic,MERCEDES-BENZ ML 63 AMG 4Matic,null,car,null,null,null
+Other,Blue,Occasion,null,null,Zuzwil,null,RENAULT,null,147900,km,Clio 2.0 16V Sport,RENAULT Clio 2.0 16V Sport,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,BMW,null,72000,km,550i Touring,BMW 550i Touring,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,5900,km,R8 GT Spyder 5.2,AUDI R8 GT Spyder 5.2,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,PORSCHE,null,38600,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Convertible,Yellow,Occasion,null,null,Zuzwil,null,CHRYSLER,null,28600,km,Viper RT/10,CHRYSLER Viper RT/10,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,CHEVROLET,null,200,km,Corvette Z06,CHEVROLET Corvette Z06,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,60000,km,Continental R Coupé,BENTLEY Continental R Coupé,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,47500,km,CLK 55 AMG Avantgarde,MERCEDES-BENZ CLK 55 AMG Avantgarde,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,145100,km,300 SEL 3.5,MERCEDES-BENZ 300 SEL 3.5,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,14000,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,FERRARI,null,11700,km,458 Spider Italia 4.5 V8,FERRARI 458 Spider Italia 4.5 V8,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,49900,km,TT Roadster 1.8 T,AUDI TT Roadster 1.8 T,null,car,null,null,null
+Station Wagon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,62500,km,C 280 Elégance,MERCEDES-BENZ C 280 Elégance,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MASERATI,null,39500,km,Biturbo Spyder E,MASERATI Biturbo Spyder E,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,JAGUAR,null,49500,km,XKR 5.0 V8 SC,JAGUAR XKR 5.0 V8 SC,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,31500,km,M5,BMW M5,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,32500,km,CLK DTM AMG,MERCEDES-BENZ CLK DTM AMG,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,91900,km,S6 Avant quattro 4.2,AUDI S6 Avant quattro 4.2,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,63500,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Convertible,White,Vorführmodell,null,null,Zuzwil,null,ASTON MARTIN,null,9000,km,V8 Vantage 4.7,ASTON MARTIN V8 Vantage 4.7,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BMW,null,64700,km,323 E21,BMW 323 E21,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,93500,km,2002 tii,BMW 2002 tii,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,63300,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Black,Occasion,null,null,St. Gallen,null,LAMBORGHINI,null,1700,km,GallardoLP570-4CpéTecnica,LAMBORGHINI GallardoLP570-4CpéTecnica,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,46500,km,911 Turbo Cabrio,PORSCHE 911 Turbo Cabrio,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,56600,km,Quattroporte 4.2,MASERATI Quattroporte 4.2,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,54000,km,924 Turbo,PORSCHE 924 Turbo,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,68900,km,Boxster S 3.4,PORSCHE Boxster S 3.4,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,137700,km,911 Carrera Cabrio,PORSCHE 911 Carrera Cabrio,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,153600,km,Alpine A310 V6,RENAULT Alpine A310 V6,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,19800,km,CL 65 AMG,MERCEDES-BENZ CL 65 AMG,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,CHEVROLET,null,68200,km,Corvette 5.7 LT1 Convert.,CHEVROLET Corvette 5.7 LT1 Convert.,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,134000,km,911 SC 3.0,PORSCHE 911 SC 3.0,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,ALFA ROMEO,null,75000,km,GTV 6 2.5,ALFA ROMEO GTV 6 2.5,null,car,null,null,null
+Station Wagon,Black,Vorführmodell,null,null,Zuzwil,null,BMW,null,112300,km,523i Touring,BMW 523i Touring,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,47600,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,TOYOTA,null,5000,km,LAND CRUISER FJ 40,TOYOTA LAND CRUISER FJ 40,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,171000,km,M5,BMW M5,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,23700,km,CLK 55 AMG Avantgarde,MERCEDES-BENZ CLK 55 AMG Avantgarde,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,54100,km,B3 3.3 S,BMW-ALPINA B3 3.3 S,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,24400,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,VW,null,1,km,BEETLE New Beetle Cup,VW BEETLE New Beetle Cup,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,19999,km,SL 63 AMG,MERCEDES-BENZ SL 63 AMG,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,BENTLEY,null,34900,km,Arnage Green Label,BENTLEY Arnage Green Label,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,41100,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,AUDI,null,29300,km,TTS Cpé 2.0 TFSI quattro,AUDI TTS Cpé 2.0 TFSI quattro,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,139200,km,Alpine A310 V6,RENAULT Alpine A310 V6,null,car,null,null,null
+Coupé,Silver,Vorführmodell,null,null,Zuzwil,null,BMW,null,10900,km,Z4 M Coupé,BMW Z4 M Coupé,null,car,null,null,null
+Coupé,Black,Neu,null,null,Zuzwil,null,McLAREN,null,55,km,MP4-12C 3.8 V8,McLAREN MP4-12C 3.8 V8,null,car,null,null,null
+Saloon,Silver,Vorführmodell,null,null,Zuzwil,null,MERCEDES-BENZ,null,100,km,E 320 CDI Avantgarde,MERCEDES-BENZ E 320 CDI Avantgarde,null,car,null,null,null
+Coupé,Purple,Occasion,null,null,Zuzwil,null,CHEVROLET,null,21300,km,CORVETTE C2,CHEVROLET CORVETTE C2,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,12100,km,C 63 AMG BLACK SERIES (Coupé),MERCEDES-BENZ C 63 AMG BLACK SERIES (Coupé),null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,34200,km,RS4 Avant 4.2 FSI quattro,AUDI RS4 Avant 4.2 FSI quattro,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,50200,km,CL 55 AMG,MERCEDES-BENZ CL 55 AMG,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,62000,km,F550 Maranello,FERRARI F550 Maranello,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,49800,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,123300,km,E 500 Avantgarde,MERCEDES-BENZ E 500 Avantgarde,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,114200,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,87800,km,ML 400 CDI,MERCEDES-BENZ ML 400 CDI,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,BMW,null,113000,km,X5 4.4i,BMW X5 4.4i,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,38700,km,SLK 230 Kompressor,MERCEDES-BENZ SLK 230 Kompressor,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,AUDI,null,143700,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,78700,km,CLS 500,MERCEDES-BENZ CLS 500,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,28000,km,Continental FlyingSpur6.0,BENTLEY Continental FlyingSpur6.0,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,17000,km,DB9 Volante,ASTON MARTIN DB9 Volante,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,St. Gallen,null,BENTLEY,null,5000,km,Continental GT Speed 6.0,BENTLEY Continental GT Speed 6.0,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,FERRARI,null,36000,km,456M GT,FERRARI 456M GT,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,43700,km,C 350 Elégance 4Matic,MERCEDES-BENZ C 350 Elégance 4Matic,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BENTLEY,null,44600,km,Arnage Green Label,BENTLEY Arnage Green Label,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,FERRARI,null,26000,km,575M,FERRARI 575M,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,ROLLS-ROYCE,null,42000,km,Corniche,ROLLS-ROYCE Corniche,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,BMW,null,52900,km,M3,BMW M3,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,BENTLEY,null,79700,km,Continental GT 6.0,BENTLEY Continental GT 6.0,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,72600,km,RS4 Avant quattro,AUDI RS4 Avant quattro,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,AUDI,null,120200,km,Cabriolet 2.8 E,AUDI Cabriolet 2.8 E,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,ALFA ROMEO,null,37000,km,8C Coupé,ALFA ROMEO 8C Coupé,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,33600,km,545i,BMW 545i,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,56100,km,E 320 Elégance,MERCEDES-BENZ E 320 Elégance,null,car,null,null,null
+Pick-up,Black,Occasion,null,null,Zuzwil,null,DODGE,null,41000,km,Ram SRT-10,DODGE Ram SRT-10,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,34500,km,E 63 AMG,MERCEDES-BENZ E 63 AMG,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,123400,km,SLK 32 AMG,MERCEDES-BENZ SLK 32 AMG,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,82100,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,78000,km,Alpine A310 V6 VFA-2700 VAA,RENAULT Alpine A310 V6 VFA-2700 VAA,null,car,null,null,null
+Convertible,Yellow,Occasion,null,null,Zuzwil,null,ROLLS-ROYCE,null,19720,km,CORNICHE Cabrio,ROLLS-ROYCE CORNICHE Cabrio,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,JAGUAR,null,89666,km,XKR S/C,JAGUAR XKR S/C,null,car,null,null,null
+Other,Gray,Occasion,null,null,Zuzwil,null,FIAT,null,75200,km,Punto 1.8 16V HGT,FIAT Punto 1.8 16V HGT,null,car,null,null,null
+Convertible,White,Oldtimer,null,null,Zuzwil,null,ALFA ROMEO,null,106000,km,SPIDER 1300 Junior,ALFA ROMEO SPIDER 1300 Junior,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,13700,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FORD,null,36100,km,CAPRI RS 2600,FORD CAPRI RS 2600,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,39800,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,110800,km,S 350 L 4Matic,MERCEDES-BENZ S 350 L 4Matic,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MASERATI,null,62700,km,Quattroporte 4.2,MASERATI Quattroporte 4.2,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,PORSCHE,null,139900,km,911 Carrera 4S,PORSCHE 911 Carrera 4S,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,196300,km,A4 Avant 2.8 q.Ambition,AUDI A4 Avant 2.8 q.Ambition,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,45600,km,S 63 AMG L,MERCEDES-BENZ S 63 AMG L,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,19400,km,SLK 55 AMG,MERCEDES-BENZ SLK 55 AMG,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,28800,km,V8 Vantage 4.3,ASTON MARTIN V8 Vantage 4.3,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,31400,km,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,HONDA,null,111500,km,Legend V6 3.5i,HONDA Legend V6 3.5i,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,35000,km,456M GT,FERRARI 456M GT,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,BMW,null,38000,km,528i Touring,BMW 528i Touring,null,car,null,null,null
+Saloon,Gold,Occasion,null,null,Zuzwil,null,DAIMLER,null,94800,km,Six 4.0,DAIMLER Six 4.0,null,car,null,null,null
+Other,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,147800,km,R5 Alpine,RENAULT R5 Alpine,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,ROLLS-ROYCE,null,73800,km,Silver Spur,ROLLS-ROYCE Silver Spur,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,27900,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,15300,km,SL 65 AMG,MERCEDES-BENZ SL 65 AMG,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,PORSCHE,null,29800,km,911 Carrera S Cabrio,PORSCHE 911 Carrera S Cabrio,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,38000,km,Murciélago LP640-4 Cpé,LAMBORGHINI Murciélago LP640-4 Cpé,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,145100,km,C 320 Elégance,MERCEDES-BENZ C 320 Elégance,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,69200,km,CLS 63 AMG,MERCEDES-BENZ CLS 63 AMG,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BMW,null,60700,km,750i,BMW 750i,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,BMW,null,54600,km,M5,BMW M5,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,OPEL,null,90600,km,Vectra 2.8 T V6 Cosmo,OPEL Vectra 2.8 T V6 Cosmo,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,73900,km,S 55 L AMG,MERCEDES-BENZ S 55 L AMG,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,29100,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,128800,km,S 600 L,MERCEDES-BENZ S 600 L,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,PORSCHE,null,14000,km,911 Turbo S Cabrio,PORSCHE 911 Turbo S Cabrio,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,16300,km,911 GTR (GT3),PORSCHE 911 GTR (GT3),null,car,null,null,null
+Other,Gray,Oldtimer,null,null,Zuzwil,null,RENAULT,null,45000,km,R8 Gordini,RENAULT R8 Gordini,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,52400,km,E 55 AMG Avantgarde,MERCEDES-BENZ E 55 AMG Avantgarde,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,71300,km,DBS Volante,ASTON MARTIN DBS Volante,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,BMW,null,55000,km,M6,BMW M6,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,132600,km,E 420 Avantgarde,MERCEDES-BENZ E 420 Avantgarde,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,79500,km,CL 500 4Matic,MERCEDES-BENZ CL 500 4Matic,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,74000,km,911 Targa,PORSCHE 911 Targa,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,29800,km,E 250 CGI BlueEff Avgarde,MERCEDES-BENZ E 250 CGI BlueEff Avgarde,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,127000,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,LAND ROVER,null,99900,km,Range Rover 3.6 d HSE,LAND ROVER Range Rover 3.6 d HSE,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,111000,km,S 600,MERCEDES-BENZ S 600,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,52000,km,S 500,MERCEDES-BENZ S 500,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,NSU,null,75000,km,TTS,NSU TTS,null,car,null,null,null
+Saloon,Yellow,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,42000,km,S 400 CDI,MERCEDES-BENZ S 400 CDI,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,82000,km,535d xDrive,BMW 535d xDrive,null,car,null,null,null
+Convertible,Orange,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,89100,km,SL 60,MERCEDES-BENZ SL 60,null,car,null,null,null
+SUV,Blue,Occasion,null,null,Zuzwil,null,LAND ROVER,null,49700,km,Range Rover 4.6 HSE,LAND ROVER Range Rover 4.6 HSE,null,car,null,null,null
+Saloon,Orange,Occasion,null,null,Zuzwil,null,MASERATI,null,33600,km,Quattroporte 4.2 Exec. GT,MASERATI Quattroporte 4.2 Exec. GT,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BMW,null,48000,km,M6,BMW M6,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MITSUBISHI,null,35200,km,Lancer Evo VII,MITSUBISHI Lancer Evo VII,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,TOYOTA,null,38700,km,CELICA 2000GT,TOYOTA CELICA 2000GT,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,34600,km,F355 Spider,FERRARI F355 Spider,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,SAAB,null,104400,km,9-3 2.0T Performance,SAAB 9-3 2.0T Performance,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,LAND ROVER,null,42000,km,Range Rover 4.6 HSE,LAND ROVER Range Rover 4.6 HSE,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,LOTUS,null,75100,km,Elise,LOTUS Elise,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,36700,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,81900,km,911 Carrera Cabrio,PORSCHE 911 Carrera Cabrio,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,47700,km,911 Carrera 4,PORSCHE 911 Carrera 4,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,5000,km,F430 Challenge GT3 LOOK,FERRARI F430 Challenge GT3 LOOK,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,21400,km,911 Turbo Cabrio,PORSCHE 911 Turbo Cabrio,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,106000,km,E 240 Avantgarde,MERCEDES-BENZ E 240 Avantgarde,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,VW,null,175000,km,Phaeton 6.0 W12 4Motion,VW Phaeton 6.0 W12 4Motion,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,BENTLEY,null,101500,km,Mulsanne Turbo,BENTLEY Mulsanne Turbo,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MASERATI,null,49300,km,Spyder GT,MASERATI Spyder GT,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,48300,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,125000,km,quattro Turbo 20V,AUDI quattro Turbo 20V,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,MASERATI,null,96000,km,Quattroporte 4.7 S,MASERATI Quattroporte 4.7 S,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,48300,km,CL 65 AMG,MERCEDES-BENZ CL 65 AMG,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,118000,km,ML 500,MERCEDES-BENZ ML 500,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,PORSCHE,null,77600,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+SUV,Beige,Occasion,null,null,Zuzwil,null,BMW,null,40500,km,X5 4.4i,BMW X5 4.4i,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,3600,km,S7 Sportback 4.0 TFSI V8 quattro,AUDI S7 Sportback 4.0 TFSI V8 quattro,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,JAGUAR,null,74000,km,XJ8 4.2 V8 Sovereign,JAGUAR XJ8 4.2 V8 Sovereign,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,FERRARI,null,16600,km,F360 Spider,FERRARI F360 Spider,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,3200,km,SLK 350,MERCEDES-BENZ SLK 350,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,142000,km,Continental GT 6.0,BENTLEY Continental GT 6.0,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,58200,km,911 Carrera,PORSCHE 911 Carrera,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,75400,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,316200,km,S3 quattro,AUDI S3 quattro,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BMW,null,78700,km,540i,BMW 540i,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Basel,null,BENTLEY,null,15600,km,Arnage T,BENTLEY Arnage T,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,BMW,null,82500,km,323i Sport Edition,BMW 323i Sport Edition,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,14873,km,R12 Gordini,RENAULT R12 Gordini,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,4900,km,Gallardo LP560-4 Spyder,LAMBORGHINI Gallardo LP560-4 Spyder,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,BMW,null,162000,km,320d Touring,BMW 320d Touring,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BMW,null,79500,km,330Ci,BMW 330Ci,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,JAGUAR,null,99900,km,XJR 4.0 Supercharged,JAGUAR XJR 4.0 Supercharged,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,22100,km,SL 65 AMG,MERCEDES-BENZ SL 65 AMG,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,99500,km,S 600,MERCEDES-BENZ S 600,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,35800,km,CL 63 AMG FAB DESIGN,MERCEDES-BENZ CL 63 AMG FAB DESIGN,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,38200,km,911 GT2,PORSCHE 911 GT2,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,39000,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,LAND ROVER,null,15000,km,Range Rover Sport 5.0 V8 SC,LAND ROVER Range Rover Sport 5.0 V8 SC,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,75600,km,911 Carrera 4 S Cabrio,PORSCHE 911 Carrera 4 S Cabrio,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,VW,null,31300,km,Phaeton 6.0 W12 4Motion,VW Phaeton 6.0 W12 4Motion,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,93500,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,121000,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,101900,km,A4 Avant 3.0 V6,AUDI A4 Avant 3.0 V6,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,83000,km,E 320 Avantgarde,MERCEDES-BENZ E 320 Avantgarde,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,AUDI,null,36700,km,RS6 Avant 5.0 V10 quattro,AUDI RS6 Avant 5.0 V10 quattro,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,WIESMANN,null,34600,km,GT MF5,WIESMANN GT MF5,null,car,null,null,null
+null,Black,Occasion,null,null,Zuzwil,null,HARLEY-DAVIDSON,null,100,km,HPU Hurricane TC,HARLEY-DAVIDSON HPU Hurricane TC,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BENTLEY,null,39100,km,Brooklands,BENTLEY Brooklands,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,AUDI,null,69900,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Coupé,Yellow,Occasion,null,null,Zuzwil,null,FERRARI,null,28100,km,F355 Berlinetta,FERRARI F355 Berlinetta,null,car,null,null,null
+Saloon,Gray,Oldtimer,null,null,Zuzwil,null,BMW,null,104650,km,1602,BMW 1602,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,16000,km,Murciélago 6.2 Coupé,LAMBORGHINI Murciélago 6.2 Coupé,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,27600,km,745i,BMW 745i,null,car,null,null,null
+Saloon,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,75000,km,E 430 Avantgarde,MERCEDES-BENZ E 430 Avantgarde,null,car,null,null,null
+Coupé,Gray,Neu,null,null,Zuzwil,null,LAMBORGHINI,null,300,km,Huracan LP610-4 Coupé,LAMBORGHINI Huracan LP610-4 Coupé,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,BENTLEY,null,47500,km,TURBO,BENTLEY TURBO,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,101300,km,911 Turbo II,PORSCHE 911 Turbo II,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,36600,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,OPEL,null,9000,km,Speedster 2.2 16V,OPEL Speedster 2.2 16V,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,47000,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+SUV,White,Occasion,null,null,Zuzwil,null,PORSCHE,null,1000,km,Cayenne S,PORSCHE Cayenne S,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,112800,km,S 500,MERCEDES-BENZ S 500,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,45200,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,20000,km,Gallardo 5.0 V10 Coupé SE,LAMBORGHINI Gallardo 5.0 V10 Coupé SE,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,52500,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,92300,km,CLK 55 AMG Avantgarde,MERCEDES-BENZ CLK 55 AMG Avantgarde,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,OPEL,null,60990,km,MANTA 400 Breitbau,OPEL MANTA 400 Breitbau,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,42000,km,Gallardo Superleggera,LAMBORGHINI Gallardo Superleggera,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BMW,null,62300,km,M5,BMW M5,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,74500,km,S 500 L,MERCEDES-BENZ S 500 L,null,car,null,null,null
+Station Wagon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,140200,km,E 350 Elégance 4Matic,MERCEDES-BENZ E 350 Elégance 4Matic,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,34500,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,29800,km,SLR McLaren,MERCEDES-BENZ SLR McLaren,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,BMW,null,23900,km,M3,BMW M3,null,car,null,null,null
+Saloon,Yellow,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,128000,km,S 320,MERCEDES-BENZ S 320,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,62700,km,SL 63 AMG,MERCEDES-BENZ SL 63 AMG,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,72200,km,CL 500 Prime Edition,MERCEDES-BENZ CL 500 Prime Edition,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,McLAREN,null,12000,km,MP4-12C Cabriolet 3.8 V8,McLAREN MP4-12C Cabriolet 3.8 V8,null,car,null,null,null
+Other,Blue,Occasion,null,null,Zuzwil,null,DAIHATSU,null,61800,km,Charade 1.0 Turbo,DAIHATSU Charade 1.0 Turbo,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,55900,km,CL 500,MERCEDES-BENZ CL 500,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,99999,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,50900,km,Continental GTC 6.0,BENTLEY Continental GTC 6.0,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,MASERATI,null,61400,km,Coupé GT,MASERATI Coupé GT,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,44000,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,45000,km,CLK 63 AMG Black Series,MERCEDES-BENZ CLK 63 AMG Black Series,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BENTLEY,null,85700,km,Arnage Green Label,BENTLEY Arnage Green Label,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,BMW,null,29800,km,M5,BMW M5,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,BMW,null,34400,km,728i,BMW 728i,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,156800,km,SL 320,MERCEDES-BENZ SL 320,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,LOTUS,null,16000,km,HKT Seven GTS,LOTUS HKT Seven GTS,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,80000,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MASERATI,null,38400,km,Coupé GranSport,MASERATI Coupé GranSport,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,21400,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,TOYOTA,null,101400,km,Corolla 1600 GTi TC16,TOYOTA Corolla 1600 GTi TC16,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,DAIMLER,null,100,km,V8 4.0,DAIMLER V8 4.0,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,McLAREN,null,23000,km,MP4-12C Coupé 3.8 V8,McLAREN MP4-12C Coupé 3.8 V8,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,BMW,null,142000,km,M3,BMW M3,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,49500,km,Diablo 5.7,LAMBORGHINI Diablo 5.7,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,111900,km,750iL,BMW 750iL,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,60500,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,32700,km,S 500 L,MERCEDES-BENZ S 500 L,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,111600,km,Arnage Red Label,BENTLEY Arnage Red Label,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MASERATI,null,40600,km,Ghibli 2.8 GT,MASERATI Ghibli 2.8 GT,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Sursee,null,CHEVROLET,null,10000,km,CAMARO,CHEVROLET CAMARO,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,59500,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,73400,km,CL 600,MERCEDES-BENZ CL 600,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,121900,km,S 55 AMG,MERCEDES-BENZ S 55 AMG,null,car,null,null,null
+Coupé,Silver,Oldtimer,null,null,Zuzwil,null,MG,null,86000,km,M Roadster,MG M Roadster,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BMW,null,58300,km,M6,BMW M6,null,car,null,null,null
+Saloon,Silver,Oldtimer,null,null,Zuzwil,null,BMW-ALPINA,null,129400,km,7 SERIES B7 Turbo Limousine,BMW-ALPINA 7 SERIES B7 Turbo Limousine,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Zuzwil,null,AUDI,null,40900,km,RS6 Avant quattro,AUDI RS6 Avant quattro,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MATRA,null,52000,km,SIMCA Bagheera Serie II,MATRA SIMCA Bagheera Serie II,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,FIAT,null,9999,km,850 Spider,FIAT 850 Spider,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,39900,km,E 63 AMG Avantgarde,MERCEDES-BENZ E 63 AMG Avantgarde,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MASERATI,null,46050,km,Quattroporte 4.2,MASERATI Quattroporte 4.2,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MASERATI,null,29000,km,Quattroporte 4.7 S,MASERATI Quattroporte 4.7 S,null,car,null,null,null
+Saloon,Beige,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,49900,km,E 55 AMG Avantgarde,MERCEDES-BENZ E 55 AMG Avantgarde,null,car,null,null,null
+Station Wagon,Black,Occasion,null,null,Safenwil,null,ASTON MARTIN,null,39000,km,LAGONDA Shooting Brake,ASTON MARTIN LAGONDA Shooting Brake,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,LANCIA,null,155000,km,Delta HF Integrale Evo,LANCIA Delta HF Integrale Evo,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,68800,km,Virage,ASTON MARTIN Virage,null,car,null,null,null
+Coupé,White,Occasion,null,null,Zuzwil,null,DeLorean,null,15000,km,De Lorean DMC-12,DeLorean De Lorean DMC-12,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MASERATI,null,50300,km,Spyder GT,MASERATI Spyder GT,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,69500,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,36000,km,612,FERRARI 612,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,FORD (USA),null,4300,km,Mustang 5.0 GT Premium 50 Years,FORD (USA) Mustang 5.0 GT Premium 50 Years,null,car,null,null,null
+Saloon,White,Oldtimer,null,null,Safenwil,null,MINI,null,44300,km,1000,MINI MINI 1000,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,68500,km,M5,BMW M5,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,69100,km,S 320,MERCEDES-BENZ S 320,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,JEEP,null,133500,km,Grand Cherokee 5.2 Ltd.,JEEP Grand Cherokee 5.2 Ltd.,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,21700,km,Arnage Red Label,BENTLEY Arnage Red Label,null,car,null,null,null
+SUV,Silver,Occasion,null,null,Zuzwil,null,BMW,null,60100,km,X5 4.4i,BMW X5 4.4i,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,45300,km,SL 600,MERCEDES-BENZ SL 600,null,car,null,null,null
+Convertible,White,Occasion,null,null,Zuzwil,null,AGM,null,1,km,WLR,AGM WLR,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,BMW-ALPINA,null,150200,km,7 SERIES B7 Turbo Coupé,BMW-ALPINA 7 SERIES B7 Turbo Coupé,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,ALFA ROMEO,null,79380,km,GT 1300 Junior,ALFA ROMEO GT 1300 Junior,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,114000,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,BMW,null,29600,km,M6,BMW M6,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,BMW,null,79100,km,645i,BMW 645i,null,car,null,null,null
+Coupé,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,25900,km,911 Turbo,PORSCHE 911 Turbo,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,53400,km,911 GT2,PORSCHE 911 GT2,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,68700,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Coupé,Green,Occasion,null,null,Zuzwil,null,FIAT,null,131000,km,Dino 2400 Coupé,FIAT Dino 2400 Coupé,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,AUDI,null,66300,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,VW,null,33500,km,Jetta 2.0 TDI Comfort,VW Jetta 2.0 TDI Comfort,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,MASERATI,null,62300,km,Coupé GT,MASERATI Coupé GT,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,BMW,null,42000,km,750iL,BMW 750iL,null,car,null,null,null
+SUV,Blue,Occasion,null,null,Zuzwil,null,HUMMER,null,127700,km,H3 3.5 Luxury,HUMMER H3 3.5 Luxury,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,16500,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Convertible,Silver,Occasion,null,null,Zuzwil,null,BMW,null,32000,km,M6,BMW M6,null,car,null,null,null
+Station Wagon,Gray,Occasion,null,null,Zuzwil,null,BMW,null,85800,km,540i Touring,BMW 540i Touring,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,51000,km,SL 500 Edition,MERCEDES-BENZ SL 500 Edition,null,car,null,null,null
+Coupé,Silver,Oldtimer,null,null,Sursee,null,FERRARI,null,8000,km,365 Daytona Plexiglas,FERRARI 365 Daytona Plexiglas,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,27800,km,CL 500,MERCEDES-BENZ CL 500,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,BMW,null,1600,km,M3,BMW M3,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,BMW,null,65400,km,740i,BMW 740i,null,car,null,null,null
+Convertible,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,6000,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,7600,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,35100,km,911 Carrera 4,PORSCHE 911 Carrera 4,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,49600,km,G 55 AMG,MERCEDES-BENZ G 55 AMG,null,car,null,null,null
+Convertible,Gray,Oldtimer,null,null,Safenwil,null,AUSTIN-HEALEY,null,16900,km,100/Six BN6 Roadster,AUSTIN-HEALEY 100/Six BN6 Roadster,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,70700,km,E 50 AMG Avantgarde,MERCEDES-BENZ E 50 AMG Avantgarde,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,20500,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,BMW,null,108500,km,530d Touring,BMW 530d Touring,null,car,null,null,null
+Saloon,Blue,Occasion,null,null,Zuzwil,null,BENTLEY,null,29000,km,Continental FlyingSpur6.0,BENTLEY Continental FlyingSpur6.0,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,BMW,null,35000,km,M3 CSL,BMW M3 CSL,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,16300,km,SL 500,MERCEDES-BENZ SL 500,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,FERRARI,null,680,km,458 Italia 4.5 V8,FERRARI 458 Italia 4.5 V8,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,32500,km,SL 55 AMG,MERCEDES-BENZ SL 55 AMG,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FERRARI,null,25000,km,F360 Modena Berlinetta,FERRARI F360 Modena Berlinetta,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,RENAULT,null,75700,km,Alpine A110 1300,RENAULT Alpine A110 1300,null,car,null,null,null
+Coupé,Gray,Neu,null,null,Zuzwil,null,MERCEDES-BENZ,null,165,km,CL 500,MERCEDES-BENZ CL 500,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,28100,km,G 63 AMG,MERCEDES-BENZ G 63 AMG,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,FORD,null,1000,km,RS200 EVO Gruppe B,FORD RS200 EVO Gruppe B,null,car,null,null,null
+Coupé,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,21100,km,911 GT3 CS,PORSCHE 911 GT3 CS,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,PORSCHE,null,54100,km,911 GT2,PORSCHE 911 GT2,null,car,null,null,null
+SUV,Black,Occasion,null,null,Zuzwil,null,BMW,null,66800,km,X5 4.4i,BMW X5 4.4i,null,car,null,null,null
+Saloon,Silver,Occasion,null,null,Zuzwil,null,NISSAN,null,98000,km,Sunny 2.0 16V GTI-R,NISSAN Sunny 2.0 16V GTI-R,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,7300,km,Gallardo LP550-2 Cpé V.B.,LAMBORGHINI Gallardo LP550-2 Cpé V.B.,null,car,null,null,null
+Station Wagon,Blue,Occasion,null,null,Zuzwil,null,AUDI,null,185900,km,S4 Avant quattro,AUDI S4 Avant quattro,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,BMW,null,81900,km,330Ci,BMW 330Ci,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Porrentruy,null,LAMBORGHINI,null,1999,km,Aventador LP700-4 Rds,LAMBORGHINI Aventador LP700-4 Rds,null,car,null,null,null
+Convertible,Green,Occasion,null,null,Zuzwil,null,BENTLEY,null,15000,km,Continental Supersports Conv.,BENTLEY Continental Supersports Conv.,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,29000,km,E 63 AMG,MERCEDES-BENZ E 63 AMG,null,car,null,null,null
+Convertible,Blue,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,47700,km,SL 250 Pagode,MERCEDES-BENZ SL 250 Pagode,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,94500,km,760i L,BMW 760i L,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,36000,km,Arnage T,BENTLEY Arnage T,null,car,null,null,null
+Saloon,Black,Occasion,null,null,Zuzwil,null,BMW,null,129800,km,3.0 CSL,BMW 3.0 CSL,null,car,null,null,null
+Coupé,Blue,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,97200,km,DB7,ASTON MARTIN DB7,null,car,null,null,null
+SUV,White,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,37500,km,ML 500 4Matic,MERCEDES-BENZ ML 500 4Matic,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,RENAULT,null,90000,km,Alpine A110 Modell 1400 FASA,RENAULT Alpine A110 Modell 1400 FASA,null,car,null,null,null
+SUV,Gray,Occasion,null,null,Zuzwil,null,PORSCHE,null,31000,km,Cayenne Turbo,PORSCHE Cayenne Turbo,null,car,null,null,null
+Coupé,Silver,Occasion,null,null,Zuzwil,null,PORSCHE,null,77000,km,911 GT3,PORSCHE 911 GT3,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,VW,null,48300,km,Phaeton 3.0 TDi V6 4M,VW Phaeton 3.0 TDi V6 4M,null,car,null,null,null
+Saloon,Gray,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,29200,km,E 500 Avantgarde,MERCEDES-BENZ E 500 Avantgarde,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Sursee,null,BUGATTI,null,20000,km,Veyron 16.4,BUGATTI Veyron 16.4,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MERCEDES-BENZ,null,4900,km,S 63 AMG,MERCEDES-BENZ S 63 AMG,null,car,null,null,null
+Saloon,White,Occasion,null,null,Zuzwil,null,AUDI,null,94700,km,A8 4.2 quattro,AUDI A8 4.2 quattro,null,car,null,null,null
+Convertible,Black,Occasion,null,null,Zuzwil,null,BENTLEY,null,76200,km,Continental GTC 6.0,BENTLEY Continental GTC 6.0,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,ASTON MARTIN,null,41000,km,DB9 Volante,ASTON MARTIN DB9 Volante,null,car,null,null,null
+Saloon,Red,Occasion,null,null,Zuzwil,null,MASERATI,null,80000,km,Quattroporte 4.2 Sport GT,MASERATI Quattroporte 4.2 Sport GT,null,car,null,null,null
+Coupé,Black,Occasion,null,null,Zuzwil,null,LAMBORGHINI,null,28500,km,Gallardo LP560-4 Coupé,LAMBORGHINI Gallardo LP560-4 Coupé,null,car,null,null,null
+Convertible,Red,Occasion,null,null,Zuzwil,null,PORSCHE,null,14400,km,911 Turbo Cabrio,PORSCHE 911 Turbo Cabrio,null,car,null,null,null

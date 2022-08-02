@@ -1,0 +1,279 @@
+
+spark-submit --packages com.crealytics:spark-excel_2.12:3.2.1_0.17.1 src/02_ETL.py
+
+
+Reading target data file inputs/Target_Data.xlsx into dataframe tdf
+
+Reading supplier car data file inputs/supplier_car.json into dataframe sdf
+
+Convert col("ID") to Integer in sdf and show result
++---+-------------+---------+-----+
+| ID|     MakeText|ModelText|count|
++---+-------------+---------+-----+
+|  1|MERCEDES-BENZ|    E 320|   19|
+|  2|         AUDI|      RS6|   19|
+|  3|         AUDI|      RS6|   19|
+|  4|    CHEVROLET| CORVETTE|   19|
+|  5|      PORSCHE|  CAYENNE|   19|
+|  6|   FORD (USA)|  MUSTANG|   19|
+|  7|MERCEDES-BENZ|  CLS 500|   19|
+|  8| ASTON MARTIN|      DB9|   19|
+|  9|        LOTUS|    ELISE|   19|
+| 10|  LAMBORGHINI|     null|   19|
++---+-------------+---------+-----+
+
+Choose among similar columns those that have no/fewer nulls
+root
+ |-- Attribute Names: string (nullable = true)
+ |-- Attribute Values: string (nullable = true)
+ |-- ID: integer (nullable = true)
+ |-- MakeText: string (nullable = true)
+ |-- ModelText: string (nullable = true)
+ |-- ModelTypeText: string (nullable = true)
+ |-- TypeName: string (nullable = true)
+ |-- TypeNameFull: string (nullable = true)
+ |-- entity_id: string (nullable = true)
+
+
+Check column "MakeText" for nulls
+  number of nulls in "MakeText" = 0
+
+Check columns "ModelText" and "ModelTypeText" for nulls
+  number of nulls in "ModelText" = 50
+  number of nulls in "ModelTypeText" = 50
+  choosing column "ModelTypeText"
+
+Check columns "TypeName" and "TypeNameFull" for nulls
+  number of nulls in "TypeName" = 16
+  number of nulls in "TypeNameFull" = 0
+  choosing column "TypeNameFull"
+
+Group data by the subset of columns that do not contain nulls and show the number of records
+  number of records = 1153
+df_filtered = sdf.filter((sdf['Attribute Names'] in ['BodyColorText','BodyTypeText','City','ConditionTypeText','Km']
++---+-------------+-------------------------+------------------------------------+-----------------+----------------+
+|ID |MakeText     |ModelTypeText            |TypeNameFull                        |Attribute Names  |Attribute Values|
++---+-------------+-------------------------+------------------------------------+-----------------+----------------+
+|1  |MERCEDES-BENZ|E 320 Elégance 4-Matic   |MERCEDES-BENZ E 320 Elégance 4-Matic|BodyColorText    |anthrazit       |
+|1  |MERCEDES-BENZ|E 320 Elégance 4-Matic   |MERCEDES-BENZ E 320 Elégance 4-Matic|City             |Zuzwil          |
+|1  |MERCEDES-BENZ|E 320 Elégance 4-Matic   |MERCEDES-BENZ E 320 Elégance 4-Matic|ConditionTypeText|Occasion        |
+|1  |MERCEDES-BENZ|E 320 Elégance 4-Matic   |MERCEDES-BENZ E 320 Elégance 4-Matic|Km               |31900           |
+|1  |MERCEDES-BENZ|E 320 Elégance 4-Matic   |MERCEDES-BENZ E 320 Elégance 4-Matic|BodyTypeText     |Limousine       |
+|2  |AUDI         |RS6 Avant 5.0 V10 quattro|AUDI RS6 Avant 5.0 V10 quattro      |BodyTypeText     |Kombi           |
+|2  |AUDI         |RS6 Avant 5.0 V10 quattro|AUDI RS6 Avant 5.0 V10 quattro      |BodyColorText    |anthrazit       |
+|2  |AUDI         |RS6 Avant 5.0 V10 quattro|AUDI RS6 Avant 5.0 V10 quattro      |City             |Zuzwil          |
+|2  |AUDI         |RS6 Avant 5.0 V10 quattro|AUDI RS6 Avant 5.0 V10 quattro      |ConditionTypeText|Occasion        |
+|2  |AUDI         |RS6 Avant 5.0 V10 quattro|AUDI RS6 Avant 5.0 V10 quattro      |Km               |25400           |
++---+-------------+-------------------------+------------------------------------+-----------------+----------------+
+only showing top 10 rows
+
+df_coll.keys = ['explicit', 'color', 'carType', 'city', 'condition', 'mileage']
+
+df_coll[explicit]'.orderBy('ID').show(10)
++---+-------------+--------------------------------+----------------------------------------+
+|ID |MakeText     |ModelTypeText                   |TypeNameFull                            |
++---+-------------+--------------------------------+----------------------------------------+
+|1  |MERCEDES-BENZ|E 320 Elégance 4-Matic          |MERCEDES-BENZ E 320 Elégance 4-Matic    |
+|2  |AUDI         |RS6 Avant 5.0 V10 quattro       |AUDI RS6 Avant 5.0 V10 quattro          |
+|3  |AUDI         |RS6 Avant quattro               |AUDI RS6 Avant quattro                  |
+|4  |CHEVROLET    |Corvette Z06                    |CHEVROLET Corvette Z06                  |
+|5  |PORSCHE      |Cayenne Turbo Techart Magnum Kit|PORSCHE Cayenne Turbo Techart Magnum Kit|
+|6  |FORD (USA)   |Mustang Shelby GT500            |FORD (USA) Mustang Shelby GT500         |
+|7  |MERCEDES-BENZ|CLS 500                         |MERCEDES-BENZ CLS 500                   |
+|8  |ASTON MARTIN |DB9 Volante                     |ASTON MARTIN DB9 Volante                |
+|9  |LOTUS        |Elise                           |LOTUS Elise                             |
+|10 |LAMBORGHINI  |Espada GT 400 Serie 3           |LAMBORGHINI Espada GT 400 Serie 3       |
++---+-------------+--------------------------------+----------------------------------------+
+only showing top 10 rows
+
+
+df_coll[color]'.orderBy('ID').show(10)
++---+--------------+
+|ID |color         |
++---+--------------+
+|1  |anthrazit     |
+|2  |anthrazit     |
+|3  |anthrazit     |
+|4  |anthrazit     |
+|5  |anthrazit     |
+|6  |anthrazit mét.|
+|7  |anthrazit mét.|
+|8  |anthrazit mét.|
+|9  |anthrazit mét.|
+|10 |anthrazit mét.|
++---+--------------+
+only showing top 10 rows
+
+
+df_coll[carType]'.orderBy('ID').show(10)
++---+------------------+
+|ID |carType           |
++---+------------------+
+|1  |Limousine         |
+|2  |Kombi             |
+|3  |Kombi             |
+|4  |Coupé             |
+|5  |SUV / Geländewagen|
+|6  |Coupé             |
+|7  |Limousine         |
+|8  |Cabriolet         |
+|9  |Cabriolet         |
+|10 |Coupé             |
++---+------------------+
+only showing top 10 rows
+
+
+df_coll[city]'.orderBy('ID').show(10)
++---+------+
+|ID |city  |
++---+------+
+|1  |Zuzwil|
+|2  |Zuzwil|
+|3  |Zuzwil|
+|4  |Zuzwil|
+|5  |Zuzwil|
+|6  |Zuzwil|
+|7  |Zuzwil|
+|8  |Zuzwil|
+|9  |Zuzwil|
+|10 |Zuzwil|
++---+------+
+only showing top 10 rows
+
+
+df_coll[condition]'.orderBy('ID').show(10)
++---+---------+
+|ID |condition|
++---+---------+
+|1  |Occasion |
+|2  |Occasion |
+|3  |Occasion |
+|4  |Occasion |
+|5  |Occasion |
+|6  |Occasion |
+|7  |Occasion |
+|8  |Occasion |
+|9  |Occasion |
+|10 |Oldtimer |
++---+---------+
+only showing top 10 rows
+
+
+df_coll[mileage]'.orderBy('ID').show(10)
++---+-------+
+|ID |mileage|
++---+-------+
+|1  |31900  |
+|2  |25400  |
+|3  |38500  |
+|4  |200    |
+|5  |2900   |
+|6  |92000  |
+|7  |120900 |
+|8  |31800  |
+|9  |38200  |
+|10 |48000  |
++---+-------+
+only showing top 10 rows
+
+
+Join the dataframes in the collection df_coll into the dataframe df
+
+df.orderBy('ID').show(10)
++---+-------------+--------------------------------+----------------------------------------+--------------+------------------+------+---------+-------+
+|ID |MakeText     |ModelTypeText                   |TypeNameFull                            |color         |carType           |city  |condition|mileage|
++---+-------------+--------------------------------+----------------------------------------+--------------+------------------+------+---------+-------+
+|1  |MERCEDES-BENZ|E 320 Elégance 4-Matic          |MERCEDES-BENZ E 320 Elégance 4-Matic    |anthrazit     |Limousine         |Zuzwil|Occasion |31900  |
+|2  |AUDI         |RS6 Avant 5.0 V10 quattro       |AUDI RS6 Avant 5.0 V10 quattro          |anthrazit     |Kombi             |Zuzwil|Occasion |25400  |
+|3  |AUDI         |RS6 Avant quattro               |AUDI RS6 Avant quattro                  |anthrazit     |Kombi             |Zuzwil|Occasion |38500  |
+|4  |CHEVROLET    |Corvette Z06                    |CHEVROLET Corvette Z06                  |anthrazit     |Coupé             |Zuzwil|Occasion |200    |
+|5  |PORSCHE      |Cayenne Turbo Techart Magnum Kit|PORSCHE Cayenne Turbo Techart Magnum Kit|anthrazit     |SUV / Geländewagen|Zuzwil|Occasion |2900   |
+|6  |FORD (USA)   |Mustang Shelby GT500            |FORD (USA) Mustang Shelby GT500         |anthrazit mét.|Coupé             |Zuzwil|Occasion |92000  |
+|7  |MERCEDES-BENZ|CLS 500                         |MERCEDES-BENZ CLS 500                   |anthrazit mét.|Limousine         |Zuzwil|Occasion |120900 |
+|8  |ASTON MARTIN |DB9 Volante                     |ASTON MARTIN DB9 Volante                |anthrazit mét.|Cabriolet         |Zuzwil|Occasion |31800  |
+|9  |LOTUS        |Elise                           |LOTUS Elise                             |anthrazit mét.|Cabriolet         |Zuzwil|Occasion |38200  |
+|10 |LAMBORGHINI  |Espada GT 400 Serie 3           |LAMBORGHINI Espada GT 400 Serie 3       |anthrazit mét.|Coupé             |Zuzwil|Oldtimer |48000  |
++---+-------------+--------------------------------+----------------------------------------+--------------+------------------+------+---------+-------+
+only showing top 10 rows
+
+
+Rename the columns to match the column names in target
+Before renaming: df.columns =
+['ID', 'MakeText', 'ModelTypeText', 'TypeNameFull', 'color', 'carType', 'city', 'condition', 'mileage']
+After renaming: df.columns =
+['ID', 'make', 'model', 'model_variant', 'color', 'carType', 'city', 'condition', 'mileage']
++---+-------------+--------------------------------+----------------------------------------+--------------+------------------+------+---------+-------+
+|ID |make         |model                           |model_variant                           |color         |carType           |city  |condition|mileage|
++---+-------------+--------------------------------+----------------------------------------+--------------+------------------+------+---------+-------+
+|1  |MERCEDES-BENZ|E 320 Elégance 4-Matic          |MERCEDES-BENZ E 320 Elégance 4-Matic    |anthrazit     |Limousine         |Zuzwil|Occasion |31900  |
+|2  |AUDI         |RS6 Avant 5.0 V10 quattro       |AUDI RS6 Avant 5.0 V10 quattro          |anthrazit     |Kombi             |Zuzwil|Occasion |25400  |
+|3  |AUDI         |RS6 Avant quattro               |AUDI RS6 Avant quattro                  |anthrazit     |Kombi             |Zuzwil|Occasion |38500  |
+|4  |CHEVROLET    |Corvette Z06                    |CHEVROLET Corvette Z06                  |anthrazit     |Coupé             |Zuzwil|Occasion |200    |
+|5  |PORSCHE      |Cayenne Turbo Techart Magnum Kit|PORSCHE Cayenne Turbo Techart Magnum Kit|anthrazit     |SUV / Geländewagen|Zuzwil|Occasion |2900   |
+|6  |FORD (USA)   |Mustang Shelby GT500            |FORD (USA) Mustang Shelby GT500         |anthrazit mét.|Coupé             |Zuzwil|Occasion |92000  |
+|7  |MERCEDES-BENZ|CLS 500                         |MERCEDES-BENZ CLS 500                   |anthrazit mét.|Limousine         |Zuzwil|Occasion |120900 |
+|8  |ASTON MARTIN |DB9 Volante                     |ASTON MARTIN DB9 Volante                |anthrazit mét.|Cabriolet         |Zuzwil|Occasion |31800  |
+|9  |LOTUS        |Elise                           |LOTUS Elise                             |anthrazit mét.|Cabriolet         |Zuzwil|Occasion |38200  |
+|10 |LAMBORGHINI  |Espada GT 400 Serie 3           |LAMBORGHINI Espada GT 400 Serie 3       |anthrazit mét.|Coupé             |Zuzwil|Oldtimer |48000  |
++---+-------------+--------------------------------+----------------------------------------+--------------+------------------+------+---------+-------+
+only showing top 10 rows
+
+
+Add to supplier the missing columns, i.e., columns in target but not supplier
+  Add column 'mileage_unit' with value 'km' to supplier
+  Add column 'type' with value 'car' to supplier
+  Add columns currency,drive,country,manufacture_{year,month},price_on_request,zip,fuel_consumption_unit with null value
+
+Reorder columns in supplier dataframe to match the order in target
+Final df.columns =
+['carType', 'color', 'condition', 'currency', 'drive', 'city', 'country', 'make', 'manufacture_year', 'mileage', 'mileage_unit', 'model', 'model_variant', 'price_on_request', 'type', 'zip', 'manufacture_month', 'fuel_consumption_unit']
+tdf.columns =
+['carType', 'color', 'condition', 'currency', 'drive', 'city', 'country', 'make', 'manufacture_year', 'mileage', 'mileage_unit', 'model', 'model_variant', 'price_on_request', 'type', 'zip', 'manufacture_month', 'fuel_consumption_unit']
+
+Harmonize the values in supplier with those in target
+harmonize the values in column 'color'
++------+
+|color |
++------+
+|Beige |
+|Black |
+|Blue  |
+|Gold  |
+|Gray  |
+|Green |
+|Orange|
+|Purple|
+|Red   |
+|Silver|
+|White |
+|Yellow|
++------+
+
+harmonize the values in column 'carType'
++-------------+
+|carType      |
++-------------+
+|Convertible  |
+|Coupé        |
+|Other        |
+|Pick-up      |
+|SUV          |
+|Saloon       |
+|Station Wagon|
+|null         |
++-------------+
+
+
+Show supplier dataframe
++-------------+-----+---------+--------+-----+------+-------+-------------+----------------+-------+------------+--------------------+--------------------+----------------+----+----+-----------------+---------------------+
+|      carType|color|condition|currency|drive|  city|country|         make|manufacture_year|mileage|mileage_unit|               model|       model_variant|price_on_request|type| zip|manufacture_month|fuel_consumption_unit|
++-------------+-----+---------+--------+-----+------+-------+-------------+----------------+-------+------------+--------------------+--------------------+----------------+----+----+-----------------+---------------------+
+|       Saloon|Black| Occasion|    null| null|Zuzwil|   null|MERCEDES-BENZ|            null|  31900|          km|E 320 Elégance 4-...|MERCEDES-BENZ E 3...|            null| car|null|             null|                 null|
+|Station Wagon|Black| Occasion|    null| null|Zuzwil|   null|         AUDI|            null|  25400|          km|RS6 Avant 5.0 V10...|AUDI RS6 Avant 5....|            null| car|null|             null|                 null|
+|Station Wagon|Black| Occasion|    null| null|Zuzwil|   null|         AUDI|            null|  38500|          km|   RS6 Avant quattro|AUDI RS6 Avant qu...|            null| car|null|             null|                 null|
+|        Coupé|Black| Occasion|    null| null|Zuzwil|   null|    CHEVROLET|            null|    200|          km|        Corvette Z06|CHEVROLET Corvett...|            null| car|null|             null|                 null|
++-------------+-----+---------+--------+-----+------+-------+-------------+----------------+-------+------------+--------------------+--------------------+----------------+----+----+-----------------+---------------------+
+only showing top 4 rows
+
+
+Write supplier dataframe into csv file outputs/supplier_car_processed.csv
